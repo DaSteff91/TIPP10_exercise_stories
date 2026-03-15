@@ -1,0 +1,75 @@
+Am 11. Mai 1997 geschah etwas, das viele für unmöglich hielten.
+Ein Computer schlug den besten Schachspieler der Welt.
+Der Mann hieß Garri Kasparow, ein Russe, der seit fünfzehn Jahren ungeschlagen war.
+Die Maschine trug den Namen Deep Blue und wurde von IBM gebaut.
+Das Duell dauerte mehrere Tage und endete mit einem Ergebnis, das die Welt erschütterte.
+Deep Blue gewann 3,5 zu 2,5, ein Sieg der Maschine über den Menschen.
+Die Nachricht ging um die ganze Welt und machte Schlagzeilen in jeder Zeitung.
+Aber die wahre Geschichte begann lange vor diesem historischen Moment.
+
+Die Idee, Maschinen das Schachspielen beizubringen, war fast so alt wie die Computer selbst.
+Bereits in den fünfziger Jahren träumten Forscher davon, künstliche Intelligenz zu erschaffen.
+Schach galt als der ultimative Test für den menschlichen Geist.
+Wer Schach spielen konnte, musste strategisch denken, vorausplanen und den Gegner durchschauen.
+Wenn eine Maschine das schaffte, dann hatte sie wirklich etwas Menschliches erreicht.
+Jahrzehntelang waren die Computer zu schwach, um gegen gute Spieler zu bestehen.
+Sie rechnete langsam, sahen nicht weit genug voraus und machten dumme Fehler.
+Doch mit der Zeit wurden sie immer stärker.
+
+In den achtziger Jahren begann IBM, sich für das Problem zu interessieren.
+Das Unternehmen hatte genug von langweiligen Geschäftsanwendungen und suchte nach einer großen Herausforderung.
+Schach bot sich an, denn es war öffentlichkeitswirksam und technisch anspruchsvoll.
+Ein Team von Ingenieuren begann mit der Arbeit an einem speziellen Schachcomputer.
+Sie nannten ihn Deep Blue, eine Anspielung auf den Spitznamen von IBMs Forschungsabteilung, Big Blue.
+Die erste Version trat 1996 gegen Kasparow an und verlor überraschend deutlich.
+Kasparow gewann 4 zu 2, aber er spürte, dass die Maschine gefährlich war.
+Er sagte voraus, dass sie eines Tages gewinnen würde, nur nicht so bald.
+
+Das Team ging zurück ins Labor und verbesserte Deep Blue grundlegend.
+Der neue Computer war doppelt so schnell wie der alte und konnte pro Sekunde zweihundert Millionen Stellungen berechnen.
+Das bedeutete, dass er in wenigen Minuten so viele Varianten durchspielen konnte wie ein Mensch in seinem ganzen Leben.
+Deep Blue bestand aus dreißig speziellen Schachprozessoren, die parallel arbeiteten, und einem riesigen Eröffnungsbuch mit tausenden klassischen Partien.
+Er war kein lernender Computer im heutigen Sinne, sondern eine reine Rechenmaschine.
+Aber er rechnete so schnell, dass es wie Denken aussah.
+
+Das Rematch begann im Mai 1997 in New York, im Herzen von Manhattan.
+Die Weltpresse war versammelt, und Millionen Menschen verfolgten das Duell im Fernsehen.
+Kasparow wirkte von Anfang an nervös, unruhig, fast gereizt.
+Er hatte einen Gegner vor sich, der keine Angst kannte, keine Müdigkeit, keine Schwäche.
+Deep Blue spielte kalt und präzise, ohne jeden Fehler, ohne jede Emotion.
+Nach einem hart umkämpften ersten Spiel, das Kasparow gewann, drehte Deep Blue auf.
+Es gewann das zweite Spiel, und die Welt hielt den Atem an.
+
+Der entscheidende Moment kam im dritten Spiel.
+Kasparow opferte eine Figur, um einen Angriff zu starten, eine typisch menschliche Strategie.
+Deep Blue rechnete ruhig weiter und fand eine Verteidigung, die Kasparow nicht erwartet hatte.
+Der Russe musste aufgeben, zum ersten Mal in seiner Karriere gegen eine Maschine.
+In den folgenden Spielen kämpfte Kasparow verbissen, aber er fand keinen Weg zurück.
+Seine Körpersprache verriet seine Verzweiflung: Er starrte das Brett an, vergrub das Gesicht in den Händen, stand immer wieder auf.
+Am Ende stand es 3,5 zu 2,5, und Deep Blue war der Sieger.
+
+Kasparow war am Boden zerstört.
+Er beschuldigte IBM, geschummelt zu haben, und forderte Einblick in die Protokolle.
+IBM verweigerte dies und löste das Team kurz nach dem Sieg auf.
+Bis heute gibt es Verschwörungstheorien, dass Menschen Deep Blue geholfen hätten.
+Aber die meisten Experten sind sich einig: Der Sieg war echt, und er markierte eine Zeitenwende.
+Zum ersten Mal hatte eine Maschine den besten Menschen in einer reinen Denksportart besiegt.
+Das war ein Moment, der in die Geschichte einging.
+
+Was bedeutet dieser Sieg für uns heute?
+Deep Blue war kein intelligenter Computer im modernen Sinne.
+Er lernte nicht, er verstand nichts, er fühlte nichts.
+Er war einfach ein unfassbar schneller Rechner, der brutal Gewalt anwendete.
+Aber er zeigte, dass rohe Rechenleistung ausreichen kann, um den menschlichen Geist zu schlagen.
+Heute sind Computer in Schach so überlegen, dass kein Mensch mehr eine Chance hat.
+Selbst ein einfaches Schachprogramm auf dem Handy besiegt fast jeden Großmeister.
+Die Ära der menschlichen Schachdominanz ist für immer vorbei.
+
+Deep Blue steht heute im Smithsonian Museum in Washington.
+Touristen können ihn bestaunen, dieses Ungetüm aus schwarzen Metallschränken.
+Er sieht aus wie ein Relikt aus einer anderen Zeit, und das ist er auch.
+Aber sein Geist lebt weiter in jeder KI, die heute entwickelt wird.
+Wenn du mit ChatGPT sprichst, wenn du ein selbstfahrendes Auto siehst, wenn du eine Empfehlung bei Netflix bekommst, dann denk an Deep Blue.
+Er war der erste, der zeigte, dass Maschinen uns in dem schlagen können, was wir für unsere ureigenste Domäne hielten: das Denken.
+Der Schachcomputer aus den Neunzigern ebnete den Weg für die künstliche Intelligenz von heute.
+Und das ist eine Geschichte, die weitergeht, jeden Tag, in diesem Augenblick.

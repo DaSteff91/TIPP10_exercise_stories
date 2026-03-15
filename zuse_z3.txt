@@ -1,0 +1,64 @@
+Die Geschichte des Computers beginnt nicht im kalifornischen Silicon Valley, sondern im Wohnzimmer einer Berliner Wohnung.
+Dort arbeitete in den späßen dreißiger Jahren ein junger Bauingenieur namens Konrad Zuse an einer verrückten Idee.
+Er hatte genug von den endlosen, langweiligen Berechnungen, die er für seinen Job erledigen musste.
+Brücken, Statik, Materialbelastung: All das erforderte unzählige Stunden mit Bleistift und Papier.
+Zuse träumte davon, eine Maschine zu bauen, die diese Arbeit für ihn übernehmen könnte.
+Also begann er, ohne jegliche Förderung und völlig auf sich allein gestellt, den ersten Computer der Welt zu konstruieren.
+
+Das Jahr war 1936, und niemand sonst auf der Welt dachte ernsthaft über programmgesteuerte Rechenmaschinen nach.
+In den Vereinigten Staaten arbeiteten zwar ebenfalls Forscher an ähnlichen Ideen, aber Zuse wusste nichts davon.
+Er war ein Pionier, der im Verborgenen arbeitete, umgeben von staubigen Bauteilen und selbstgebastelten Schaltungen.
+Seine Eltern erlaubten ihm, das Wohnzimmer der Familienwohnung in der Methfesselstraße in Berlin-Kreuzberg zu besetzen.
+Dort baute er seine ersten Maschinen, die er Z1, Z2 und schließlich Z3 nannte.
+Das Z stand natürlich für seinen eigenen Nachnamen, eine bescheidene Bezeichnung für eine revolutionäre Erfindung.
+
+Die Z1 war ein mechanischer Versuchsaufbau, der noch nicht zuverlässig funktionierte.
+Dünne Metallplättchen bildeten Schalter, die sich öffneten und schlossen, ähnlich wie die Null-Eins-Logik moderner Computer.
+Das Problem war die Präzision: Die mechanischen Teile hakten ständig und lieferten unzuverlässige Ergebnisse.
+Zuse erkannte, dass er etwas Besseres brauchte, etwas Schnelleres und Präziseres.
+Er entdeckte, dass ausrangierte Telefonrelais perfekt für seine Zwecke geeignet waren.
+Diese kleinen elektromechanischen Schalter konnten sich tausendmal pro Sekunde öffnen und schließen, weit schneller als jedes Zahnrad.
+
+Mit Unterstützung einiger Freunde und etwas Geld von seiner Familie begann Zuse mit dem Bau der Z3.
+Die Arbeit war mühsam und erforderte unendliche Geduld.
+Jedes Relais musste von Hand verdrahtet werden, jede Verbindung einzeln geprüft.
+Die Z3 wuchs langsam, ein Gestell voller klackernder Schalter, die bei der Arbeit einen höllischen Lärm machten.
+Wenn die Maschine rechnete, klang es wie tausend Stricknadeln, die gegen Glas schlugen.
+Doch dieser Lärm bedeutete Fortschritt, bedeutete Rechnen, bedeutete die Geburt einer neuen Ära.
+
+Am 12. Mai 1941 war es endlich so weit.
+Die Z3 war fertig, und Zuse lud ein paar Freunde und Experten ein, um sie vorzuführen.
+Vor ihren Augen löste die Maschine eine komplizierte Gleichung, eine quadratische Aufgabe, die einen Menschen Stunden gekostet hätte.
+Die Z3 brauchte dafür nur wenige Sekunden.
+Die Anwesenden staunten, aber sie erkannten nicht, was sie da sahen.
+Sie sahen eine klappernde Rechenmaschine, nicht den Beginn des digitalen Zeitalters.
+Zuse selbst war sich der Tragweite seiner Erfindung durchaus bewusst, doch die Zeiten waren gegen ihn.
+
+Deutschland befand sich mitten im Zweiten Weltkrieg, und die Behörden hatten kein Interesse an Zuses Spielzeug.
+Sie wollten Waffen, Flugzeuge, Bomben, keine Rechenmaschinen für abstrakte Mathematik.
+Zuse versuchte, der Militärführung die Bedeutung seiner Erfindung zu erklären, aber sie verstanden nicht.
+Er bekam kaum Unterstützung und musste weiterhin unter schwierigsten Bedingungen arbeiten.
+Seine Werkstatt wurde bei einem Bombenangriff zerstört, doch die Z3 überlebte, weil sie ausgelagert worden war.
+Später, im Jahr 1944, wurde auch sie bei einem weiteren Angriff zerstört, unwiederbringlich verloren für die Nachwelt.
+
+Die Z3 verschwand im Bombenhagel des Krieges, aber Zuse selbst überlebte.
+Nach dem Krieg zog er aufs Land, in die bayerischen Alpen, und versteckte seine verbliebenen Aufzeichnungen im Keller eines Bauernhauses.
+Dort, weit weg von der zerstörten Stadt, begann er, über die Zukunft nachzudenken.
+Er entwickelte die erste echte Programmiersprache der Welt, den Plankalkül, lange bevor irgendjemand sonst überhaupt über Programmieren nachdachte.
+Doch auch dafür interessierte sich zunächst niemand.
+Deutschland lag in Trümmern, und die Welt hatte andere Sorgen.
+
+Erst Jahre später, als amerikanische Forscher begannen, ihre eigenen Computer zu bauen, erinnerte man sich an Zuse.
+Man entdeckte, dass dieser einsame Deutsche bereits alles verwirklicht hatte, was andere erst noch planten.
+Die Z3 war der erste voll funktionsfähige, programmgesteuerte Computer der Welt gewesen.
+Sie arbeitete mit binärer Mathematik, Gleitkommazahlen und konnte beliebige Programme ausführen, alles Eigenschaften, die moderne Computer immer noch auszeichnen.
+Zuse wurde endlich als das anerkannt, was er war: der wahre Vater des Computers.
+
+Heute steht ein originalgetreuer Nachbau der Z3 im Deutschen Museum in München.
+Besucher können staunend davorstehen und sich das Klackern der tausenden Relais vorstellen.
+Sie sehen eine Maschine, die aussieht wie aus einer anderen Zeit, und doch den Kern unserer Gegenwart in sich trägt.
+Konrad Zuse starb 1995, im Wissen, dass seine Arbeit die Welt verändert hatte.
+Er begann im Wohnzimmer seiner Eltern, ohne Geld, ohne Förderung, ohne Vorbild.
+Nur mit einer Idee, viel Geduld und dem unbändigen Willen, die Welt ein kleines bisschen besser zu machen.
+Die Z3 ist längst verschwunden, aber ihr Geist lebt in jedem Smartphone, jedem Laptop, jedem Server weiter.
+Ein Deutscher, der nicht wusste, dass er unmögliches möglich machte, hat uns allen die Zukunft geschenkt.

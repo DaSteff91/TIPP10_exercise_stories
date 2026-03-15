@@ -1,0 +1,73 @@
+When President John F. Kennedy announced in 1961 that America would land a man on the moon before the decade ended, he set in motion the most complex technological undertaking in human history.
+The Apollo program required solving problems that had never been faced before.
+Among the most daunting was navigation: how to guide a spacecraft a quarter million miles through empty space and land it safely on another world.
+The solution was a small computer, the Apollo Guidance Computer, that changed the course of computing forever.
+
+At the Massachusetts Institute of Technology, a team led by Charles Stark Draper accepted the impossible task.
+They had to build a computer small enough to fit in the cramped command module and later the lunar lander.
+It had to be tough enough to survive the violent shaking of a rocket launch.
+It had to consume almost no power because every watt drained precious battery life.
+And it had to be absolutely reliable because there would be no rescue mission if it failed.
+The astronauts would be millions of miles from home, trusting their lives to this machine.
+
+The engineers faced a fundamental problem: computers of that era filled entire rooms.
+They used thousands of vacuum tubes and consumed enough electricity to power a small factory.
+None of that would work in a spacecraft.
+The team turned to a new technology: integrated circuits, or microchips.
+These had only been invented a few years earlier and were still experimental.
+Buying them was enormously expensive, but there was no alternative.
+MIT ordered millions of them, effectively kickstarting the entire semiconductor industry.
+Without Apollo, the modern microchip might have taken decades longer to develop.
+
+The computer weighed seventy pounds and occupied about one cubic foot of space.
+By today's standards, its specifications are almost laughable.
+It had 72 kilobytes of memory, total, shared between permanent software and temporary data.
+A modern smartphone has millions of times more capacity.
+Its processor ran at slightly over one megahertz, a million operations per second.
+A modern laptop runs thousands of times faster.
+Yet this tiny machine had to perform calculations that would determine whether astronauts lived or died.
+
+The software was written by a team of programmers at MIT, almost all of them young women.
+They worked with pencil and paper, writing code that was then physically woven into rope memory.
+Rope memory was a remarkable technology: wires were threaded through magnetic cores to store ones and zeros.
+If a wire went through a core, that was a one.
+If it went around, that was a zero.
+Once manufactured, the memory could not be changed.
+This meant the software had to be perfect before it was built.
+There were no updates, no patches, no second chances.
+
+The programmers became legendary for their attention to detail.
+Margaret Hamilton, who led the software team, insisted on rigorous testing that others thought excessive.
+She once took her young daughter to the lab, and the girl accidentally crashed a simulator by pressing the wrong keys.
+Hamilton realized this could happen in space too, so she added error checking that would protect against such mistakes.
+Her insistence on robustness saved the Apollo 11 mission months later.
+
+On July 20, 1969, the lunar module Eagle descended toward the moon's surface.
+Minutes before landing, the computer alarmed.
+It was overloaded, receiving more data than it could handle.
+The mission control center in Houston had seconds to decide whether to abort.
+But Hamilton's software was designed for exactly this situation.
+It prioritized landing tasks and ignored non-critical work.
+The computer flashed a warning but kept flying.
+Neil Armstrong took manual control and guided the lander safely to the surface.
+Later analysis showed the software had performed perfectly.
+
+The Apollo Guidance Computer pioneered concepts we now take for granted.
+It was one of the first computers to use a real-time operating system, multitasking between different jobs.
+It gave astronauts a simple display and keyboard, a user interface that let them interact directly with the machine.
+It used software priorities to ensure critical tasks always came first.
+Every modern aviation system, every medical device, every self-driving car relies on ideas first proven in that tiny lunar lander computer.
+
+After Apollo, the technology trickled down into civilian life.
+The microchips funded by NASA became the brains of calculators, watches, and eventually personal computers.
+The software techniques developed by Hamilton and her team became standard practice in safety-critical systems.
+The idea that computers could be small, reliable, and interactive transformed society.
+
+Today we carry in our pockets more computing power than the entire Apollo program possessed.
+Yet none of it would exist without that small computer that flew to the moon.
+It proved that software could be trusted with human lives.
+It showed that bold dreams could be realized with careful engineering.
+And it reminded us that sometimes the smallest components make the biggest history.
+
+The Apollo Guidance Computer sits today in museums, a modest-looking box covered in buttons and wires.
+But inside it contains one of humanity's greatest achievements: not just landing on the moon, but proving that computers could take us anywhere.

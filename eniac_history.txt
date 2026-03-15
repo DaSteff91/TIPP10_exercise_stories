@@ -1,0 +1,37 @@
+In the history of computing, few machines are as foundational as the Electronic Numerical Integrator and Computer, better known by its acronym, ENIAC.
+Conceived in secret during the throes of World War II, its primary purpose was to calculate artillery firing tables for the United States Army.
+These tables were critical for gunners to accurately aim their weapons, but the calculations involved were complex and time-consuming.
+Before ENIAC, this work was done by human computers, predominantly women, using mechanical desk calculators.
+A single trajectory could take hours to compute, and a full table required thousands of such calculations.
+The war created an urgent need for a faster, more powerful method.
+
+The project was born at the University of Pennsylvania's Moore School of Electrical Engineering.
+The principal architects were John Mauchly, a physicist, and J. Presper Eckert, an engineer.
+Their vision was radical: to build a machine that used vacuum tubes, not gears or mechanical relays, to perform its calculations at electronic speeds.
+Construction began in secret in 1943, and the machine was completed in 1945.
+By the time ENIAC was ready, however, the war in Europe was already over.
+Its first major use was not for artillery tables, but for calculations related to the development of the hydrogen bomb, a testament to its immense potential.
+
+ENIAC was a behemoth.
+It weighed more than thirty tons and covered an area of about 1,800 square feet.
+Its architecture consisted of forty panels, arranged in a U-shape, housing over 17,000 vacuum tubes, 70,000 resistors, 10,000 capacitors, and 6,000 switches.
+The sheer number of vacuum tubes was a constant source of concern, as tubes were known to burn out frequently.
+Legend has it that the machine would be non-functional about half the time due to a failed tube, though this is likely an exaggeration.
+To keep it running, operators could not simply turn it off and on; the thermal stress of power cycling would damage the components.
+Instead, some tubes were left glowing at a low power even when the machine was idle.
+
+Programming the ENIAC was not like modern computing.
+It had no stored programs in the way we understand them today.
+To set up a new problem, a team of skilled technicians and mathematicians, a group of six brilliant women often overlooked in historical accounts, would have to physically reconfigure the machine.
+This involved setting thousands of dials and switches and plugging and unplugging a complex web of cables to create the correct data pathways and program flow.
+This process, known as "setting up the problem," could take days or even weeks.
+Once programmed, however, ENIAC could perform calculations in seconds that would have taken days for a human.
+It could execute up to 5,000 operations per second, a staggering speed for the time.
+
+ENIAC was formally unveiled to the public in February 1946.
+It was a sensation, demonstrating the awesome power of electronic computing to the world.
+While it was not a stored-program computer—a concept articulated by John von Neumann shortly thereafter, where instructions and data are held together in memory—it was a crucial proof of concept.
+It showed that large-scale electronic digital computing was not only possible but incredibly powerful.
+The machine continued to operate until 1955, after which many of its components were dismantled and scrapped.
+Today, parts of ENIAC reside in museums, serving as tangible relics of a pivotal moment in technological history, a direct ancestor to the devices we use every day.
+Its legacy is not just in its hardware, but in the very idea of a general-purpose machine capable of tackling an endless array of complex problems at electronic speed.

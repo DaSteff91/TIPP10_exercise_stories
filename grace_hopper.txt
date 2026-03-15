@@ -1,0 +1,42 @@
+Grace Brewster Murray Hopper was one of the most influential figures in the history of computer science, yet her name is far less known than it deserves to be.
+Born in 1906 in New York City, she was curious from an early age, once dismantling seven alarm clocks to understand how they worked.
+She earned a PhD in mathematics from Yale University in 1934, a remarkable achievement for a woman at that time.
+
+When World War II broke out, Hopper felt compelled to serve her country.
+She was initially rejected by the Navy due to her age and small stature, but she persisted and was finally accepted into the Naval Reserve in 1943.
+She was assigned to the Bureau of Ships Computation Project at Harvard University, where she worked on the IBM Automatic Sequence Controlled Calculator, known as the Mark I.
+
+The Mark I was a room-sized electromechanical computer that could perform calculations for the war effort, such as computing rocket trajectories and creating range tables for new weapons.
+Hopper was one of the first three programmers of this machine, tasked with writing what we would now call software.
+Programming the Mark I meant physically setting switches and wiring cables, a painstaking process with no room for error.
+
+It was on the Mark II, a later machine, that Hopper coined a term still used by programmers today.
+One summer day in 1947, the machine malfunctioned.
+When her team opened the relay, they found a dead moth trapped inside, obstructing the mechanical switch.
+Hopper carefully removed the moth and taped it into her logbook with the note: "First actual case of bug being found."
+This is where the terms "bug" and "debugging" entered the computing lexicon, though Hopper was quick to note they did not invent the word itself.
+
+After the war, Hopper continued working with computers, convinced that they could be used for more than just mathematical calculations.
+She believed that programming in machine code, a language of ones and zeros, was inefficient and limited the potential of computers.
+Her radical idea was that programmers should be able to write instructions in something closer to English, and the computer itself could translate those instructions into the machine code it understood.
+Between 1951 and 1952, she invented the first compiler, which she called the A-0 System.
+The term compiler referred to the way the program "compiled" instructions from a library of subroutines.
+
+Her colleagues at the time were skeptical.
+Computers were expensive machines, and the idea of using them to translate code seemed wasteful.
+Why not just write in machine code directly?
+Hopper persisted, famously saying, "It's much easier for most people to write an English statement than it is to use symbols. I kept fighting for that."
+
+Her work on compilers laid the foundation for the development of COBOL, or Common Business-Oriented Language, in the late 1950s.
+COBOL was designed to be readable by managers and accessible to people without extensive mathematical training.
+Hopper's insistence on English-like syntax made COBOL one of the most enduring programming languages in history.
+Even today, vast amounts of business and government data processing, from banking to airline reservations, still run on COBOL systems.
+
+Throughout her career, Hopper remained in the Naval Reserve, retiring as a rear admiral at the age of eighty.
+She was the oldest serving officer in the United States Navy at that time.
+She became a sought-after speaker, known for handing out pieces of wire cut to the length of a nanosecond, the distance light travels in one billionth of a second.
+This was her way of illustrating why programmers should not waste tiny units of time; small inefficiencies added up.
+
+Grace Hopper died in 1992 and was buried with full military honors.
+Her legacy is not just the compiler or COBOL, but her unwavering belief that computers should serve people, not the other way around.
+She opened the door for generations of programmers who could now speak to machines in a language that felt natural and human.

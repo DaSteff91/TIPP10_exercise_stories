@@ -1,0 +1,52 @@
+Before computers became personal, they were room-sized monsters that only experts could touch.
+In the 1950s and early 1960s, using a computer meant submitting a stack of punched cards to an operator and waiting hours or even days for results.
+If your program had a single mistake, you received your cards back with an error message and started the entire process over again.
+This batch processing system was efficient for the machine but miserable for the human.
+Only a small number of trained specialists could truly work with computers, and students had almost no access at all.
+
+At Dartmouth College in the early 1960s, two men decided this had to change.
+John Kemeny and Thomas Kurtz were mathematicians who believed that computing was going to be fundamental to every field of study.
+They argued that every Dartmouth student, whether studying art, history, or biology, should have hands-on access to a computer.
+The problem was cost: a single computer cost millions of dollars, and only one person could use it at a time.
+Their radical solution was time-sharing.
+
+Time-sharing meant dividing the computer's processing power into tiny slices and rotating through multiple users so quickly that each person felt they had the machine to themselves.
+While one user typed, the computer worked on another user's program for a fraction of a second, then switched back.
+To the human, the response seemed instant.
+Kemeny and Kurtz proposed building such a system on a General Electric GE-225 computer, a machine never designed for this purpose.
+Most experts thought they were crazy.
+
+Work began in 1963 with funding from the National Science Foundation.
+The team faced enormous technical challenges.
+They had to design not only the time-sharing operating system but also a programming language simple enough for beginners.
+That language became BASIC, the Beginner's All-purpose Symbolic Instruction Code.
+BASIC used plain English words like PRINT, LET, and IF, making it possible for someone with no technical background to write their first program in minutes.
+
+On May 1, 1964, at 4:00 in the morning, the Dartmouth Time-Sharing System came to life.
+Kemeny and Kurtz typed a simple program and watched as the computer responded instantly.
+The miracle had worked.
+Soon, terminals were placed all over campus: in libraries, dormitories, and student lounges.
+Any student could sit down, type a few commands, and get an immediate response from the computer.
+This was revolutionary.
+
+The impact was immediate and profound.
+Students in economics wrote programs to simulate markets.
+Psychology students analyzed experiment data in real time.
+Music students even programmed the computer to play simple melodies through a speaker.
+Computing was no longer a mysterious ritual performed by priests in white lab coats.
+It became a tool, like a library book or a laboratory instrument, available to anyone with curiosity and a problem to solve.
+
+The Dartmouth system inspired similar projects at other universities and research centers.
+It proved that computers could be social machines, serving many people at once rather than sitting idle between batch jobs.
+This concept directly influenced the development of personal computers in the 1970s and 1980s.
+When Steve Jobs and Steve Wozniak built the Apple II, they were fulfilling the dream that Kemeny and Kurtz had started: a computer for the rest of us.
+
+BASIC became the gateway language for an entire generation of programmers.
+Countless engineers, scientists, and entrepreneurs wrote their first lines of code in BASIC on time-sharing systems or early home computers.
+The language's simplicity lowered the barrier to entry and unleashed creativity on a massive scale.
+
+Today, we take instant access to computing for granted.
+Every time you open a laptop, tap a tablet, or connect to a cloud service, you are benefiting from the vision of Kemeny and Kurtz.
+The Dartmouth Time-Sharing System was more than a technical achievement.
+It was a philosophical statement that computing belongs to everyone, not just a privileged few.
+That belief shaped the world we live in and continues to drive the democratization of technology across the globe.

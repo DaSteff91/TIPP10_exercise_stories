@@ -1,0 +1,63 @@
+On August 25, 1991, a 21-year-old Finnish student posted a message to an internet newsgroup.
+He said he was working on a free operating system, just as a hobby.
+It would not be big and professional like the systems from Microsoft or IBM.
+He asked if anyone was interested in his project or wanted to help.
+That student was Linus Torvalds, and that hobby project would become Linux.
+
+At the time, operating systems were expensive.
+Unix was the standard for serious computing, but it cost thousands of dollars.
+Microsoft Windows was becoming popular but was proprietary and locked down.
+Students and hobbyists had few options.
+Torvalds wanted something that could run on his personal computer, a machine with a modest Intel 386 processor.
+He had been using Minix, a small educational Unix-like system, but wanted to build his own.
+
+He started by writing a simple terminal emulator so he could connect to his university's computers.
+Then he realized this could become something bigger.
+He began building the core of an operating system, the kernel, that would manage hardware and run programs.
+He announced his project and released the source code under a license that allowed anyone to use, modify, and share it for free.
+
+The response was immediate and overwhelming.
+Programmers around the world downloaded the code, tested it, fixed bugs, and added features.
+Torvalds did not control the project in a traditional way.
+He simply coordinated the flood of contributions pouring in from volunteers across the globe.
+This was the birth of open source development on a massive scale.
+
+What made Linux different was its philosophy.
+Torvalds believed in technical merit above all else.
+If your code worked and was well written, it would be accepted, regardless of who you were.
+You did not need a degree, a job at a big company, or permission from anyone.
+You just needed to contribute.
+This attracted the best minds from every corner of the world.
+
+By the late 1990s, Linux had become stable enough for serious use.
+Companies began to notice.
+IBM invested billions in Linux development.
+Red Hat built a business selling support for the free system.
+Nasa and other research institutions adopted it for their most demanding calculations.
+
+The biggest breakthrough came with the rise of the internet.
+When companies needed servers to run websites, they turned to Linux.
+It was free, stable, and could run for years without crashing.
+Apache, the most popular web server software, ran best on Linux.
+Together, they powered the dot-com boom and every wave of innovation that followed.
+
+Today, Linux is everywhere.
+If you use an Android phone, you are using Linux.
+If you visit Google or Amazon or Facebook, you are connecting to Linux servers.
+If you watch Netflix or stream music, Linux handles those requests.
+The world's top five hundred supercomputers all run Linux.
+It controls stock exchanges, air traffic systems, and nuclear reactors.
+
+Yet Linux remains free.
+Anyone can download it, study it, and change it.
+Thousands of developers continue to contribute, driven not by money but by the desire to build something useful together.
+The source code is open for all to see, a guarantee that it will never be controlled by any single company or government.
+
+Linus Torvalds still oversees the kernel, though he now works full time on Linux, supported by a foundation funded by the very companies that depend on his creation.
+He never planned to change the world.
+He just wanted a system he could use on his own computer.
+But by sharing his work and inviting others to join, he started a revolution.
+
+The story of Linux proves that collaboration can outperform competition.
+It shows that giving things away can be more powerful than selling them.
+And it reminds us that one person's hobby, shared generously with the world, can grow into something none of us could have built alone.

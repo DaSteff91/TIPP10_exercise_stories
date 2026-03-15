@@ -1,0 +1,40 @@
+In the history of technology, few moments are as dramatic as the world's first public hack.
+It happened not in the digital age, but in 1903, during a thrilling race to perfect wireless communication.
+The main figure was Guglielmo Marconi, the Italian inventor who would later win a Nobel Prize for his work on radio.
+Marconi had achieved something remarkable: sending messages through thin air without wires.
+He was a showman as much as an inventor, and he planned a grand public demonstration in London to prove his system was not only impressive but also secure and private.
+
+The Royal Institution, one of Britain's most prestigious scientific venues, invited Marconi to demonstrate his invention.
+He was to send a wireless message from a station in Cornwall, nearly three hundred miles away, to the lecture hall in London.
+The message would be received by a projector that flashed each letter onto a large screen for the audience to see.
+Marconi boasted that his system was immune to interference, that messages could be sent privately without anyone eavesdropping or disrupting them.
+This was the bold claim that attracted the attention of a man named Nevil Maskelyne.
+
+Maskelyne was a stage magician, inventor, and rival with a deep interest in wireless technology.
+He was also a skeptic who believed Marconi was overhyping his system's security.
+Working from his own wireless station, Maskelyne decided to prove a point.
+He planned to intercept and disrupt the transmission, demonstrating that Marconi's claims of privacy were dangerously false.
+
+On the evening of June 4, 1903, the lecture hall was packed with scientists and journalists eager to witness the future.
+Marconi's assistant began the transmission from Cornwall.
+The projector in London flickered to life.
+But instead of the expected scientific message, the audience saw something shocking.
+Maskelyne had successfully intercepted the signal and overlaid his own.
+Letter by letter, the projector spelled out a word that was decidedly unscientific: "RATS."
+Then it continued with a taunting phrase: "There was a young fellow of Italy, who diddled the public quite prettily."
+
+The audience gasped, then laughed.
+Marconi was humiliated.
+His demonstration was ruined, and his security claims were publicly shattered.
+Maskelyne later admitted to the act, explaining that he wanted to expose the vulnerability of wireless communication before governments and businesses trusted it with sensitive information.
+He argued that he was doing a public service by revealing the flaw before it could be exploited for more sinister purposes.
+
+The event had profound implications.
+Marconi and his company scrambled to improve security, eventually developing methods to encrypt messages and tune transmitters to specific frequencies.
+But the fundamental lesson remained: any system that sends information through the air or across networks can be intercepted.
+Maskelyne's hack was a precursor to every cybersecurity breach that would follow over the next century.
+
+Today, we live with the consequences of that 1903 revelation.
+Every email, every bank transaction, every private message travels through systems that must constantly defend against interception.
+The cat-and-mouse game between security and exploitation began not in a computer lab, but in a London lecture hall, with a magician named Maskelyne proving that trust in technology must always be earned, never assumed.
+His "RATS" message was the first hack, and it echoed through history as a warning we still struggle to heed.

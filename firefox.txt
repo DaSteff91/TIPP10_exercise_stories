@@ -1,0 +1,94 @@
+In the beginning, there was the web, and it was wild and free.
+Anyone could build a website, anyone could browse, anyone could explore.
+The early internet was a chaotic playground of blinking text and ugly backgrounds and unlimited possibility.
+Then came the browser wars, and everything changed.
+
+In the mid-nineties, two companies fought for control of how people saw the web.
+Netscape was first, founded by Marc Andreessen, who had created the first real browser.
+Microsoft was second, but they had something Netscape lacked: Windows.
+Every copy of Windows came with Internet Explorer for free.
+Netscape had to be downloaded or bought in a store, a fatal disadvantage in a world of dial-up connections.
+Within a few years, Microsoft had won.
+Netscape collapsed, was sold to AOL, and eventually disappeared.
+By 2001, Internet Explorer controlled over ninety percent of the browser market.
+
+For Microsoft, this was victory.
+For the web, it was disaster.
+With no competition, Internet Explorer stopped improving.
+Years passed without updates, without new features, without security fixes.
+Microsoft focused on other things, assuming the browser war was over forever.
+But they had forgotten something important: the web belonged to the people who used it.
+And those people were not happy.
+
+Internet Explorer was slow, buggy, and insecure.
+It ignored web standards, forcing developers to write special code just for Microsoft.
+It was full of security holes that hackers exploited to steal passwords and install malware.
+If you cared about the web, you hated Internet Explorer.
+But what could you do?
+There were no alternatives that worked on Windows.
+The browser market was a prison with no exit.
+
+In 1998, while Netscape was dying, a small group of employees made a radical decision.
+They would release the Netscape source code to the public, making it free for anyone to use and improve.
+The project was called Mozilla, named after the original Netscape mascot, a green dinosaur.
+Anyone could download the code, fix bugs, add features, and build their own browser.
+The idea seemed crazy: give away your product and hope strangers would make it better.
+But the Mozilla team believed that the web was too important to be controlled by one company.
+They believed in something they called open source.
+
+For years, the Mozilla project struggled.
+The Netscape code was a mess, old and complicated and hard to work with.
+Volunteers came and went, burning out on the complexity.
+The project nearly died several times, kept alive only by sheer stubbornness.
+Then in 2002, a small team broke away from the main project to try something new.
+They took the Mozilla code, stripped out everything unnecessary, and built a lightweight browser they called Phoenix.
+The name symbolized rebirth, rising from the ashes of Netscape.
+Legal problems forced them to change it to Firebird, then finally to Firefox.
+The name stuck.
+
+Firefox was different from everything else on the market.
+It was small, fast, and focused on the user.
+It had tabbed browsing, which seems obvious now but was revolutionary then.
+It had pop-up blocking, which made the web usable again.
+It was secure, protected against the viruses and malware that plagued Internet Explorer.
+And it was extensible, letting anyone write small programs called extensions that added new features.
+Firefox treated the user as a partner, not a captive.
+
+The first proper release came in November 2004.
+It spread by word of mouth, blog posts, and sheer enthusiasm.
+There were no billion-dollar marketing campaigns, no deals with computer makers.
+Just people who loved the web telling their friends about a better way to browse.
+The download numbers grew slowly at first, then faster, then explosively.
+Within a year, Firefox had over a hundred million users.
+It was the first real threat to Microsoft's dominance since the browser wars ended.
+
+Microsoft noticed and panicked.
+They rushed out a new version of Internet Explorer, the first in five years.
+They poured money into marketing, trying to convince users to stay.
+But it was too late.
+Once people tasted freedom, they would not go back.
+Firefox kept growing, peaking at over thirty percent market share worldwide.
+In some countries, it became the dominant browser.
+Microsoft's monopoly was broken, and the web was free again.
+
+The impact went far beyond Firefox itself.
+Other browsers appeared, built on the same open principles.
+Google released Chrome, which borrowed ideas from Firefox and added its own innovations.
+Opera, Safari, and a dozen smaller browsers gave users real choice.
+The browser market became competitive again, and everyone benefited.
+Web standards improved, security got better, features multiplied.
+All because a small group of rebels refused to let one company control how people saw the web.
+
+Today, Firefox is no longer the dominant browser.
+Chrome took that title years ago and now holds it firmly.
+But Firefox still matters, still fights for the open web, still protects user privacy.
+It is maintained by the Mozilla Foundation, a non-profit organization dedicated to keeping the internet healthy.
+Unlike its competitors, Firefox answers to users, not shareholders.
+It remains what it always was: a small flame of resistance against corporate control of the web.
+
+The story of Firefox is the story of the internet itself.
+Created by dreamers, nearly killed by corporations, saved by volunteers.
+It proves that ordinary people can fight giants and win.
+It shows that open beats closed, that sharing beats hoarding, that freedom beats control.
+Every time you open a browser and go anywhere you want, you are walking through a door that Firefox helped keep open.
+The web belongs to all of us, and Firefox never let us forget it.

@@ -1,0 +1,104 @@
+In the summer of 1956, a small group of scientists gathered at Dartmouth College in Hanover, New Hampshire.
+They came from universities and research labs, brought together by a young professor named John McCarthy.
+McCarthy had convinced his colleagues that the time had come for a serious discussion about a radical idea.
+He believed machines could be built to think, to learn, to use language, and to improve themselves.
+He called this idea "artificial intelligence," a term he coined for the occasion.
+The Dartmouth Summer Research Project lasted two months and involved only ten people.
+But its impact would echo through the decades and shape the world we live in today.
+
+The attendees read like a who's who of early computing.
+Marvin Minsky was there, a brilliant MIT researcher who would become the face of AI for decades.
+Claude Shannon attended, the father of information theory who had already revolutionized communications.
+Herbert Simon and Allen Newell came, fresh from creating the first true AI program, the Logic Theorist.
+These men were young, ambitious, and convinced they could solve the mystery of intelligence in a single summer.
+They wrote proposals filled with optimism, predicting that machines would soon match human abilities.
+Some thought it would take a generation at most.
+None imagined it would take seventy years and counting.
+
+The Logic Theorist, which Newell and Simon demonstrated at Dartmouth, was a genuine breakthrough.
+It could prove mathematical theorems by manipulating symbols, mimicking human reasoning.
+The program proved thirty-eight theorems from Whitehead and Russell's Principia Mathematica, a foundational text of mathematics.
+For one theorem, it even found a proof more elegant than the one in the book.
+This was the first demonstration that machines could do more than calculate numbers.
+They could reason, think, and create.
+The attendees left Dartmouth convinced that the future had arrived.
+
+In the years that followed, funding poured into artificial intelligence research.
+The US government, worried about the Soviet Union and the space race, saw potential in thinking machines.
+Universities built labs, companies started projects, and optimism soared.
+Minsky predicted that within a generation, the problem of creating AI would be substantially solved.
+Simon claimed that machines would soon be capable of any work a man can do.
+The public imagined robot servants and talking computers, just like in science fiction.
+But reality was about to intervene.
+
+The first setback came from the very nature of intelligence itself.
+Early AI programs worked well in carefully controlled worlds with simple rules.
+They could solve puzzles, prove theorems, and play games because these domains were small and logical.
+But the real world was messy, ambiguous, and infinitely complex.
+A program that could prove mathematical theorems could not understand a simple children's story.
+A program that played perfect chess could not recognize a cat in a photograph.
+The researchers had underestimated the problem by a wide margin.
+
+By the early 1970s, the optimism had curdled into disappointment.
+Government reports criticized AI for failing to deliver on its grand promises.
+Funding dried up, labs closed, and the field entered what became known as the first AI winter.
+Researchers learned to avoid the term artificial intelligence, calling their work robotics or expert systems instead.
+But beneath the surface, work continued slowly, quietly, patiently.
+They were gathering data, refining algorithms, and waiting for the world to catch up.
+
+The waiting lasted decades.
+Through the eighties and nineties, AI remained a backwater of computer science.
+Expert systems found some commercial use in factories and hospitals, but they were brittle and limited.
+Neural networks, an idea from the early days, were dismissed as outdated and ineffective.
+Researchers who persisted were often marginalized, their papers rejected, their funding denied.
+But a few stubborn souls kept working, convinced that the data would eventually arrive.
+They were right.
+
+The turning point came not from better algorithms but from more data.
+The internet exploded in the late nineties, creating vast oceans of text, images, and video.
+Companies like Google and Amazon began collecting information on an unprecedented scale.
+Suddenly, the old algorithms that had seemed useless began to work.
+Given enough examples, neural networks could learn patterns that had eluded them for decades.
+A simple idea, hidden neurons adjusting their connections based on feedback, finally realized its potential.
+The age of machine learning had begun.
+
+In 2012, a team from the University of Toronto won a prestigious image recognition competition.
+Their algorithm, a deep neural network, crushed the competition by a wide margin.
+It learned to recognize objects by analyzing millions of examples, just as a child learns by seeing.
+The result shocked the AI community and reignited interest in neural networks.
+Within a few years, every major tech company had hired hundreds of researchers.
+Deep learning became the hottest field in computer science, and the term AI returned to public discourse.
+
+Today, machine learning is everywhere.
+Your phone recognizes your face because neural networks learned from millions of faces.
+Your email provider filters spam because algorithms learned what spam looks like.
+Your streaming service recommends movies because systems learned your preferences.
+When you speak to a virtual assistant, neural networks translate your words into commands.
+When you search the internet, machine learning ranks the results.
+When you translate a page, AI models that learned from billions of sentences do the work.
+
+The technology that failed for fifty years now runs the world.
+But the journey is far from over.
+Today's AI is narrow, specialized, and fragile.
+A system that masters chess cannot play checkers.
+A model that writes fluent text cannot understand what it wrote.
+The dream of general intelligence, machines that truly think like humans, remains as distant as it was in 1956.
+John McCarthy's vision is half fulfilled, half waiting.
+
+The ten men who gathered at Dartmouth that summer are almost all gone now.
+They died without seeing their dream realized, without knowing whether their life's work mattered.
+But their legacy grows stronger every day.
+Every time you use a smartphone, every time you type a search, every time a machine understands your voice, you are proving them right.
+They asked the right question, even if they could not find the answer.
+And the answer, it turns out, was not a single breakthrough but a slow, grinding accumulation of data and patience.
+
+In 1956, the first transistor radio had just appeared.
+Computers filled entire rooms and cost millions.
+The internet did not exist.
+Yet those ten dreamers gathered in a small classroom in New Hampshire and dared to imagine machines that could think.
+Seventy years later, you carry those machines in your pocket.
+You talk to them, and they answer.
+You ask them questions, and they respond.
+The future they imagined is your present.
+And somewhere, in a lab you will never visit, the next generation of dreamers is already imagining yours.
+

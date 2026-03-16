@@ -27,18 +27,19 @@ Happy typing!
 
 ## Stats
 
-| Title                   | Description (max 12 words)                                      | Language | Characters |
-| ----------------------- | --------------------------------------------------------------- | -------- | ---------- |
-| ENIAC History           | Early electronic computer built for WWII artillery calculations | English  | 2,518      |
-| Grace Hopper            | Navy admiral invented compiler and COBOL, coined "debugging"    | English  | 2,497      |
-| Ada Lovelace            | Daughter of poet wrote first algorithm for analytical engine    | English  | 2,521      |
-| The First Hack          | Magician disrupted Marconi's wireless demo in 1903              | English  | 2,505      |
-| The DTSS Miracle        | Dartmouth gave all students computer access in 1964             | English  | 2,503      |
-| The Python Story        | Guido created popular language over Christmas 1989              | English  | 2,506      |
-| The Linux Revolution    | Student's hobby OS now runs most of the internet                | English  | 2,498      |
-| The Apollo Guidance     | Moon landing computer with less power than calculator           | English  | 2,794      |
-| Die Zuse Z3             | Deutscher baute 1941 den ersten Computer der Welt               | German   | 2,799      |
-| Die Maus aus Dortmund   | Deutscher erfand Computermaus vor Apple, wurde vergessen        | German   | 2,798      |
-| Deep Blue besiegt Garri | IBM Computer schlug 1997 den Schachweltmeister                  | German   | 2,796      |
-| Machine Learning        | Dartmouth 1956 coined AI, took 70 years to fulfill              | English  | 2,797      |
-| The Firefox             | Netscape rebels built browser that broke Microsoft monopoly     | English  | 2,796      |
+| Title                   | Description (max 12 words)                                         | Language | Characters |
+| ----------------------- | ------------------------------------------------------------------ | -------- | ---------- |
+| ENIAC History           | Early electronic computer built for WWII artillery calculations    | English  | 2,518      |
+| Grace Hopper            | Navy admiral invented compiler and COBOL, coined "debugging"       | English  | 2,497      |
+| Ada Lovelace            | Daughter of poet wrote first algorithm for analytical engine       | English  | 2,521      |
+| The First Hack          | Magician disrupted Marconi's wireless demo in 1903                 | English  | 2,505      |
+| The DTSS Miracle        | Dartmouth gave all students computer access in 1964                | English  | 2,503      |
+| The Python Story        | Guido created popular language over Christmas 1989                 | English  | 2,506      |
+| The Linux Revolution    | Student's hobby OS now runs most of the internet                   | English  | 2,498      |
+| The Apollo Guidance     | Moon landing computer with less power than calculator              | English  | 2,794      |
+| Die Zuse Z3             | Deutscher baute 1941 den ersten Computer der Welt                  | German   | 2,799      |
+| Die Maus aus Dortmund   | Deutscher erfand Computermaus vor Apple, wurde vergessen           | German   | 2,798      |
+| Deep Blue besiegt Garri | IBM Computer schlug 1997 den Schachweltmeister                     | German   | 2,796      |
+| Machine Learning        | Dartmouth 1956 coined AI, took 70 years to fulfill                 | English  | 2,797      |
+| The Firefox             | Netscape rebels built browser that broke Microsoft monopoly        | English  | 2,796      |
+| The Password            | MIT researcher invented password 1961, someone stole the first one | English  | 2,796      |

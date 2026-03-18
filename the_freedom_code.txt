@@ -1,0 +1,127 @@
+In 1980, a printer jammed at the Massachusetts Institute of Technology.
+This was not unusual. Printers jam all the time.
+But this printer was different. It was a brand new Xerox 9700, the first laser printer many had ever seen.
+It sat on the third floor, far away from the offices where the programmers worked.
+When it jammed, nobody noticed until someone walked upstairs to check on their printout.
+Hours of work could be wasted, waiting for pages that never came.
+
+Richard Stallman worked in the AI lab at MIT.
+He was one of the last true hackers, a programmer who believed software should be shared, studied, and improved.
+For years, he had fixed the problems with the old printer by modifying its software.
+The old printer would send a message to every user when it jammed.
+No more wasted trips. No more wasted time.
+But the new Xerox printer came with a secret.
+Its software was locked. The source code was hidden.
+Stallman asked the company for the code, just to fix the printer.
+They refused. The code was their property, they said, and he could not have it.
+
+This refusal changed everything.
+Stallman sat in his office and watched his colleagues walk up and down the stairs, checking for paper jams.
+He watched them curse the machine, curse the company, curse the wasted hours.
+And he realized something fundamental had shifted in the world of computing.
+When he started in the 1970s, software was shared like recipes.
+If you fixed a bug, you gave the fix to everyone.
+If you wrote something useful, you shared the code.
+Now companies were locking everything down.
+They were building walls around knowledge.
+They were turning collaboration into crime.
+
+Stallman did not get angry quietly.
+He got angry strategically.
+In September 1983, he posted a message to the net.unix-wizards newsgroup.
+He announced a new project called GNU, a recursive acronym for "GNU's Not Unix."
+He planned to build an entire operating system, every single piece, and give it away.
+Not just the programs, but the source code.
+Anyone could use it, study it, change it, share it.
+He would create a world where no printer could ever trap its users again.
+
+The task was insane.
+Building an operating system required thousands of components, millions of lines of code.
+Unix, the system he was replacing, had taken years and a team of Bell Labs engineers to build.
+Stallman started alone, with no funding, no company, no guarantee of success.
+He wrote a compiler called GCC so people could compile code.
+He wrote a text editor called Emacs so people could write code.
+He wrote debuggers, libraries, and tools, one by one, year after year.
+Each piece was released under a license he created called the GNU General Public License.
+This license had a clever twist, a trick Stallman called copyleft.
+You could use the code, change it, even sell it.
+But if you distributed it, you had to share your changes under the same terms.
+The freedom could not be taken away. It was built into the legal DNA.
+
+In 1985, Stallman founded the Free Software Foundation to support the work.
+He published the GNU Manifesto, explaining his philosophy.
+Software should be free, he argued, not in price but in freedom.
+Free as in speech, not free as in beer.
+Users deserved four essential freedoms: to run the program for any purpose, to study how it works and change it, to redistribute copies, and to distribute modified versions to the community.
+These freedoms were not just convenient. They were moral.
+Taking them away was, in his words, antisocial and unethical.
+
+For years, the GNU project progressed steadily.
+By 1991, Stallman had built almost everything needed for a complete operating system.
+Almost everything. The kernel, the core that talks to the hardware, was still missing.
+He had started one called Hurd, but development was slow.
+Then a Finnish student named Linus Torvalds announced his own project.
+He had written a kernel for his personal computer, just for fun.
+He called it Linux and released it under the GPL, Stallman's license.
+The combination was electric.
+GNU plus Linux made the first complete free operating system.
+You could install it on any PC and have a fully functional Unix-like system, entirely free, entirely open.
+
+The world noticed.
+Programmers loved having the code.
+They fixed bugs, added features, and shared their work.
+Companies noticed too.
+Netscape, struggling against Microsoft, saw the power of this model.
+In 1998, they released the source code for their browser, creating the Mozilla project.
+Suddenly, open source was big business.
+
+That same year, a group met in Palo Alto to rebrand the movement.
+They worried that "free software" scared companies, who thought "free" meant "no money."
+They wanted a term focused on the practical benefits, not the philosophy.
+Christine Peterson suggested "open source."
+Eric Raymond and Bruce Perens ran with it, founding the Open Source Initiative.
+Their goal was the same software, but with a different message.
+Free software was about freedom and ethics.
+Open source was about better code, faster development, lower costs.
+
+Stallman watched this with mixed feelings.
+He welcomed the allies but worried the message was being diluted.
+Freedom was not just a practical advantage, he argued.
+It was a right. A moral issue. A social movement.
+If you cared only about better code, you missed the point.
+What happens when proprietary code is technically better?
+What happens when your freedom is traded for convenience?
+He continued to insist on the term "free software" and asked others to call the system GNU/Linux, not just Linux.
+The naming debate became legendary, sometimes exhausting, but Stallman never wavered.
+Principles mattered more than popularity.
+
+The movement grew beyond anyone's expectations.
+Today, free and open source software runs the world.
+Linux powers most web servers, most supercomputers, most of the cloud.
+Android, the world's most popular mobile operating system, is built on Linux.
+The Apache web server, the MySQL database, the Python programming language, all open source.
+Companies like Google, Facebook, Amazon, and Microsoft build their empires on code they did not write, code they can see, code they can change.
+The printer that started it all is long forgotten, but its lesson lives on.
+
+Stallman remains the conscience of the movement.
+He travels the world giving talks, wearing his signature sandals, speaking with absolute certainty.
+He is stubborn, uncompromising, and sometimes difficult.
+But he is also the man who saw a locked printer and decided to build an entire universe of freedom in response.
+He could have accepted the world as it was.
+He could have shrugged and walked up the stairs like everyone else.
+Instead, he wrote code, wrote licenses, and wrote a vision that changed everything.
+
+The free and open source movement is not just about software anymore.
+Its principles have spread to hardware, science, education, and culture.
+Wikipedia, the encyclopedia anyone can edit, follows the same spirit.
+Open access journals fight to make research available to all.
+Creative Commons licenses let artists share their work with freedom.
+The idea is simple and powerful: when we share knowledge, everyone benefits.
+When we build walls, we all lose.
+
+The next time you use Firefox, or Linux, or any open source tool, remember the printer.
+Remember the jammed paper, the wasted walks, the refused request.
+Remember one programmer who refused to accept a world where knowledge was locked away.
+He started with a text editor and a compiler and a dream.
+He ended up changing the world, one line of code at a time.
+And it all began because a printer jammed, and someone decided that was not good enough.

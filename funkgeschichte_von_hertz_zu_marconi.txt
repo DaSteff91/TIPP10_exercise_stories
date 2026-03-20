@@ -1,0 +1,20 @@
+Die Geschichte des Rundfunks und der drahtlosen Kommunikation ist eine faszinierende Reise durch wissenschaftliche Entdeckungen und technologische Innovationen.
+Beginnend im späten 19. Jahrhundert legten die theoretischen Arbeiten von James Clerk Maxwell den Grundstein für das Verständnis elektromagnetischer Wellen.
+Heinrich Hertz lieferte Ende der 1880er Jahre den experimentellen Beweis für die Existenz dieser Wellen, was als Geburtsstunde der drahtlosen Telegraphie gilt.
+Er demonstrierte die Erzeugung und den Nachweis von Radiowellen in seinem Labor unter Verwendung von Funkenstrecken und Resonanzkreisen.
+Diese frühen Experimente waren jedoch noch weit von einer praktischen Anwendung entfernt und auf kurze Distanzen beschränkt.
+Die bahnbrechende Arbeit von Guglielmo Marconi, der oft als Vater des Radios bezeichnet wird, markierte den Beginn der kommerziellen Nutzung.
+Marconi erkannte das Potenzial von Hertz'scher Wellen für die Fernkommunikation und begann ab 1895 mit der Entwicklung leistungsfähigerer Sender und Empfänger.
+Er verbesserte die Antennentechnik und nutzte erfolgreich die Bodenwelle sowie später höhere Frequenzen für größere Reichweiten.
+Seine erste transatlantische Funkübertragung im Jahr 1901 übertraf alle Erwartungen und bewies die Machbarkeit globaler drahtloser Verbindungen.
+Parallel dazu entwickelten andere Wissenschaftler und Erfinder wichtige Komponenten wie das kohärente und das Röhrenradio.
+Nikola Tesla leistete ebenfalls bedeutende Beiträge zur Funktechnik, insbesondere im Bereich der drahtlosen Energieübertragung und Systemdesign.
+Die Entwicklung des Audions durch Lee de Forest um 1906 revolutionierte den Empfang und ermöglichte die Verstärkung schwacher Signale, was den Weg für den Rundfunk ebnete.
+Die erste öffentliche Radiosendung mit gesprochenem Wort und Musik fand Anfang der 1910er Jahre statt, was ein neues Unterhaltungs- und Informationsmedium schuf.
+Während des Ersten Weltkriegs wurde die Funktechnologie primär für militärische Zwecke genutzt und unterlag strengen Geheimhaltungsbestimmungen.
+Nach dem Krieg begann die Ära des kommerziellen Rundfunks mit dem Aufbau von Radiosendern und der Verbreitung von Empfangsgeräten in Haushalten weltweit.
+Die Frequenzzuteilung und Regulierung wurde zu einer wichtigen Aufgabe, um Interferenzen zu vermeiden und eine geordnete Nutzung des Spektrums zu gewährleisten.
+Die Modulationstechnik entwickelte sich weiter, von der Amplitudenmodulation (AM) hin zur Frequenzmodulation (FM), die eine höhere Klangqualität und Störfestigkeit bot.
+Die Erfindung des Transistors in den 1940er Jahren führte zu einer Miniaturisierung und höheren Effizienz der Funkgeräte, was deren Verbreitung weiter förderte.
+Satellitenkommunikation und digitale Signalverarbeitung sind weitere Meilensteine, die die drahtlose Technologie von ihren Anfängen mit Hertz und Marconi bis in die moderne Ära der globalen Vernetzung getragen haben.
+Die kontinuierliche Weiterentwicklung der Funktechnologie prägt bis heute unseren Alltag und wird auch zukünftige Kommunikationsformen maßgeblich beeinflussen.

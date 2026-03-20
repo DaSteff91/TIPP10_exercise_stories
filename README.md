@@ -46,3 +46,4 @@ Happy typing!
 | Der Funker              | Der Funker auf der Titanic hämmerte SOS in den Nordatlantik, während die Reichen tanzten | German   | 2798      |
 | The Freedom Code        | Richard Stallman watched his printer jam and decided to change the world forever.        | English  | 3250      |
 | Die Geburt von TCP/IP | Die Geschichte von TCP/IP und die Rolle bei der Entwicklung des Internets| German | 3502 |
+| Die Geburt von TCP/IP | The history of TCP/IP and its foundational role in the internet's development. | German | 3502 |

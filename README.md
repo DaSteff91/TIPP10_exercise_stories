@@ -47,3 +47,4 @@ Happy typing!
 | The Freedom Code        | Richard Stallman watched his printer jam and decided to change the world forever.        | English  | 3250      |
 | Die Geburt von TCP/IP | Die Geschichte von TCP/IP und die Rolle bei der Entwicklung des Internets| German | 3502 |
 | Typing Practice History | A factual, historically accurate story about the evolution of typing practice. | English | 4888 |
+| Funkgeschichte: Von Hertz zu Marconi | Eine historische Reise durch die Entwicklung des Rundfunks und der drahtlosen Kommunikation. | German | 2635 |

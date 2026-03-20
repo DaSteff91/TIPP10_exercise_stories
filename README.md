@@ -29,20 +29,20 @@ Happy typing!
 
 | Title                   | Description                                                                              | Language | Characters |
 | ----------------------- | ---------------------------------------------------------------------------------------- | -------- | ---------- |
-| ENIAC History           | Early electronic computer built for WWII artillery calculations                          | English  | 2,518      |
-| Grace Hopper            | Navy admiral invented compiler and COBOL, coined "debugging"                             | English  | 2,497      |
-| Ada Lovelace            | Daughter of poet wrote first algorithm for analytical engine                             | English  | 2,521      |
-| The First Hack          | Magician disrupted Marconi's wireless demo in 1903                                       | English  | 2,505      |
-| The DTSS Miracle        | Dartmouth gave all students computer access in 1964                                      | English  | 2,503      |
-| The Python Story        | Guido created popular language over Christmas 1989                                       | English  | 2,506      |
-| The Linux Revolution    | Student's hobby OS now runs most of the internet                                         | English  | 2,498      |
-| The Apollo Guidance     | Moon landing computer with less power than calculator                                    | English  | 2,794      |
-| Die Zuse Z3             | Deutscher baute 1941 den ersten Computer der Welt                                        | German   | 2,799      |
-| Die Maus aus Dortmund   | Deutscher erfand Computermaus vor Apple, wurde vergessen                                 | German   | 2,798      |
-| Deep Blue besiegt Garri | IBM Computer schlug 1997 den Schachweltmeister                                           | German   | 2,796      |
-| Machine Learning        | Dartmouth 1956 coined AI, took 70 years to fulfill                                       | English  | 2,797      |
-| The Firefox             | Netscape rebels built browser that broke Microsoft monopoly                              | English  | 2,796      |
-| The Password            | MIT researcher invented password 1961, someone stole the first one                       | English  | 2,796      |
-| Der Funker              | Der Funker auf der Titanic hämmerte SOS in den Nordatlantik, während die Reichen tanzten | German   | 2,798      |
-| The Freedom Code        | Richard Stallman watched his printer jam and decided to change the world forever.        | English  | 3,250      |
+| ENIAC History           | Early electronic computer built for WWII artillery calculations                          | English  | 2518      |
+| Grace Hopper            | Navy admiral invented compiler and COBOL, coined "debugging"                             | English  | 2497      |
+| Ada Lovelace            | Daughter of poet wrote first algorithm for analytical engine                             | English  | 2521      |
+| The First Hack          | Magician disrupted Marconi's wireless demo in 1903                                       | English  | 2505      |
+| The DTSS Miracle        | Dartmouth gave all students computer access in 1964                                      | English  | 2503      |
+| The Python Story        | Guido created popular language over Christmas 1989                                       | English  | 2506      |
+| The Linux Revolution    | Student's hobby OS now runs most of the internet                                         | English  | 2498      |
+| The Apollo Guidance     | Moon landing computer with less power than calculator                                    | English  | 2794      |
+| Die Zuse Z3             | Deutscher baute 1941 den ersten Computer der Welt                                        | German   | 2799      |
+| Die Maus aus Dortmund   | Deutscher erfand Computermaus vor Apple, wurde vergessen                                 | German   | 2798      |
+| Deep Blue besiegt Garri | IBM Computer schlug 1997 den Schachweltmeister                                           | German   | 2796      |
+| Machine Learning        | Dartmouth 1956 coined AI, took 70 years to fulfill                                       | English  | 2797      |
+| The Firefox             | Netscape rebels built browser that broke Microsoft monopoly                              | English  | 2796      |
+| The Password            | MIT researcher invented password 1961, someone stole the first one                       | English  | 2796      |
+| Der Funker              | Der Funker auf der Titanic hämmerte SOS in den Nordatlantik, während die Reichen tanzten | German   | 2798      |
+| The Freedom Code        | Richard Stallman watched his printer jam and decided to change the world forever.        | English  | 3250      |
 | Die Geburt von TCP/IP | Die Geschichte von TCP/IP und die Rolle bei der Entwicklung des Internets| German | 3502 |

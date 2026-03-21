@@ -48,3 +48,4 @@ Happy typing!
 | Die Geburt von TCP/IP | Die Geschichte von TCP/IP und die Rolle bei der Entwicklung des Internets| German | 3502 |
 | Typing Practice History | A factual, historically accurate story about the evolution of typing practice. | English | 4888 |
 | Funkgeschichte: Von Hertz zu Marconi | Eine historische Reise durch die Entwicklung des Rundfunks und der drahtlosen Kommunikation. | German | 2635 |
+| Software Handwerkskunst | Eine Denkweise, die Qualität und Professionalität betont, mit Wurzeln in der Softwarekrise und dem Agile Manifesto. | German | 5033 |

@@ -1,0 +1,57 @@
+Software-Handwerkskunst ist mehr als nur Code schreiben.
+Es ist eine Denkweise.
+Sie betont Qualität und Professionalität.
+Die Wurzeln liegen in der Softwarekrise der 1960er Jahre.
+Damals wurden Projekte oft zu spät und zu teuer.
+Die Qualität war mangelhaft.
+Dies führte zu neuen Ideen.
+Die Idee der "Handwerkskunst" wurde populär.
+Sie verglich Softwareentwicklung mit traditionellem Handwerk.
+Ein Handwerker beherrscht sein Werkzeug.
+Er hat jahrelange Erfahrung.
+Er liebt seine Arbeit.
+Er strebt nach Perfektion.
+Diese Prinzipien wurden auf Software übertragen.
+Frühe Pioniere wie Grady Booch und Alistair Cockburn.
+Sie sprachen über "Good Software".
+Das "Agile Manifesto" von 2001 war ein wichtiger Meilenstein.
+Es forderte "continuous attention to technical excellence".
+Software-Handwerkskunst ist keine Methode.
+Es ist ein Set von Werten und Prinzipien.
+Dazu gehören saubere Code-Schreibung.
+Testgetriebene Entwicklung (TDD) ist ein wichtiges Werkzeug.
+Refactoring ist ein weiterer Kern.
+Es bedeutet, Code zu verbessern, ohne sein Verhalten zu ändern.
+Pair Programming fördert Wissensaustausch und Qualität.
+Kollaboration ist entscheidend.
+Das Ziel ist nachhaltige Entwicklung.
+Software soll wartbar und erweiterbar sein.
+Es geht um Verantwortung für die erstellte Software.
+Ein "Software Craftsperson" ist stolz auf seine Arbeit.
+Er lernt ständig dazu.
+Er teilt sein Wissen.
+Es gibt verschiedene Gemeinschaften und Konferenzen.
+Diese fördern den Austausch.
+"Craftsmanship" steht im Gegensatz zu "Cargo Cult Programming".
+Cargo Cult Programming bedeutet, Praktiken zu kopieren, ohne sie zu verstehen.
+Die Handwerkskunst betont das "Warum" hinter den Praktiken.
+Es geht um tiefes Verständnis.
+Es geht um Bewusstsein.
+Es geht um kontinuierliche Verbesserung.
+Der Kunde profitiert von stabilerer Software.
+Die Wartungskosten sinken.
+Die Entwicklungsgeschwindigkeit kann langfristig steigen.
+Es ist ein Bekenntnis zur Professionalität.
+Es ist ein Weg zu besserer Software.
+Es ist eine Reise, kein Ziel.
+Die Prinzipien sind zeitlos.
+Sie helfen, komplexe Probleme zu lösen.
+Sie fördern ein gesundes Arbeitsumfeld.
+Software-Handwerkskunst ist relevant für jedes Team.
+Sie schärft das Bewusstsein für Qualität.
+Sie inspiriert zu besserer Arbeit.
+Sie macht Softwareentwicklung erfüllender.
+Sie ist die Kunst, exzellente Software zu bauen.
+Sie respektiert den Prozess.
+Sie ehrt die Menschen.
+Sie liefert Wert.

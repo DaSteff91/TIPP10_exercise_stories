@@ -49,3 +49,4 @@ Happy typing!
 | Typing Practice History | A factual, historically accurate story about the evolution of typing practice. | English | 4888 |
 | Funkgeschichte: Von Hertz zu Marconi | Eine historische Reise durch die Entwicklung des Rundfunks und der drahtlosen Kommunikation. | German | 2635 |
 | Software Handwerkskunst | Eine Denkweise, die Qualität und Professionalität betont, mit Wurzeln in der Softwarekrise und dem Agile Manifesto. | German | 5033 |
+| Umlaute und ihre Geschichte | Die Geschichte der deutschen Umlaute, ihr Lautwandel, ihre Schreibweise und ihre grammatische Bedeutung. | German | 3436 |

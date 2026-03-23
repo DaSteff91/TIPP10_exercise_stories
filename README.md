@@ -50,3 +50,4 @@ Happy typing!
 | Funkgeschichte: Von Hertz zu Marconi | Eine historische Reise durch die Entwicklung des Rundfunks und der drahtlosen Kommunikation. | German | 2635 |
 | Software Handwerkskunst | Eine Denkweise, die Qualität und Professionalität betont, mit Wurzeln in der Softwarekrise und dem Agile Manifesto. | German | 5033 |
 | Umlaute und ihre Geschichte | Die Geschichte der deutschen Umlaute, ihr Lautwandel, ihre Schreibweise und ihre grammatische Bedeutung. | German | 3436 |
+| Empirical Data Analysis | Systematically collected and analyzed information driving scientific discovery and technological advancement. | English | 2609 |

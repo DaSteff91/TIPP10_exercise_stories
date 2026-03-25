@@ -54,3 +54,4 @@ Happy typing!
 | Silicon Valley Origins | The genesis and evolution of the global technology hub, highlighting key figures, companies, and innovations. | English | 2670 |
 | Museum Exhibit Development | A technical overview of the creation and installation of museum exhibits, focusing on scholarly research, design, and preservation. | English | 2687 |
 | Programming Paradigm Evolution | Programming paradigms have shaped how we instruct computers, evolving from imperative to object-oriented and functional approaches, influencing software design. | English | 3570 |
+| AI Evolution | The genesis and evolution of artificial intelligence, tracing key milestones, breakthroughs, and future directions in the field. | English | 2676 |

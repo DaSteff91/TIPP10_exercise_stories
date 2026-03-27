@@ -57,3 +57,4 @@ Happy typing!
 | AI Evolution | The genesis and evolution of artificial intelligence, tracing key milestones, breakthroughs, and future directions in the field. | English | 2676 |
 | Tech Narratives | Technical storytelling involves constructing compelling narratives to explain complex concepts to diverse audiences, balancing accuracy with engagement. | English | 2688 |
 | Computer Revolution | Die persönliche Computerrevolution veränderte die Welt. | German | 4984 |
+| Hacker Ethos | A look into the history and principles of hacker culture. | English | 4995 |

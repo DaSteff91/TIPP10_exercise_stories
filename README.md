@@ -59,3 +59,4 @@ Happy typing!
 | Computer Revolution | Die persönliche Computerrevolution veränderte die Welt. | German | 4984 |
 | Hacker Ethos | A look into the history and principles of hacker culture. | English | 4995 |
 | Erste Hacks | Übersicht zu den ersten Hacks der Geschichte | German | 5058 |
+| Code Roots | A low-level programming language closely tied to computer architecture, using mnemonics for instructions. | English | 4997 |

@@ -53,9 +53,9 @@ Happy typing!
 | Empirical Data Analysis | Systematically collected and analyzed information driving scientific discovery and technological advancement. | English | 2609 |
 | Silicon Valley Origins | The genesis and evolution of the global technology hub, highlighting key figures, companies, and innovations. | English | 2670 |
 | Museum Exhibit Development | A technical overview of the creation and installation of museum exhibits, focusing on scholarly research, design, and preservation. | English | 2687 |
-| Programming Paradigm Evolution | Programming paradigms have shaped how we instruct computers, evolving from imperative to object-oriented and functional approaches, influencing software design. | English | 3570 |
-| AI Evolution | The genesis and evolution of artificial intelligence, tracing key milestones, breakthroughs, and future directions in the field. | English | 2676 |
-| Tech Narratives | Technical storytelling involves constructing compelling narratives to explain complex concepts to diverse audiences, balancing accuracy with engagement. | English | 2688 |
+| Programming Paradigm Evolution | Programming paradigms: from imperative to functional, shaping software.. | English | 3570 |
+| AI Evolution | AI evolution: milestones, breakthroughs, and future paths. | English | 2676 |
+| Tech Narratives | Tech storytelling: complex concepts, engaging narratives. | English | 2688 |
 | Computer Revolution | Die persönliche Computerrevolution veränderte die Welt. | German | 4984 |
 | Hacker Ethos | A look into the history and principles of hacker culture. | English | 4995 |
 | Erste Hacks | Übersicht zu den ersten Hacks der Geschichte | German | 5058 |

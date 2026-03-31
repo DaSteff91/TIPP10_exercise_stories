@@ -62,3 +62,4 @@ Happy typing!
 | Code Roots | A low-level programming language closely tied to computer architecture, using mnemonics for instructions. | English | 4997 |
 | Webbrowser Geschichte | Von WorldWideWeb bis heute: Innovation durch Wettbewerb. | German | 3450 |
 | Wireless Waves | A factual, historically accurate story about the evolution of radio and wireless communication technology. | English | 4980 |
+| Zeugenberichte | Erste-Hand-Berichte aus dem Ersten Weltkrieg, die persönliche Erfahrungen und die Brutalität des Krieges schildern. | German | 4990 |

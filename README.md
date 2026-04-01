@@ -63,3 +63,4 @@ Happy typing!
 | Webbrowser Geschichte | Von WorldWideWeb bis heute: Innovation durch Wettbewerb. | German | 3450 |
 | Wireless Waves | A factual, historically accurate story about the evolution of radio and wireless communication technology. | English | 4980 |
 | Zeugenberichte | Erste-Hand-Berichte aus dem Ersten Weltkrieg, die persönliche Erfahrungen und die Brutalität des Krieges schildern. | German | 4990 |
+| Tech's Rise | The story of how computers and technology evolved from early concepts to the modern digital age. | English | 3505 |

@@ -66,3 +66,4 @@ Happy typing!
 | Tech's Rise | The story of how computers and technology evolved from early concepts to the modern digital age. | English | 3505 |
 | Protokoll Entwicklung | Die unsichtbaren Regeln der Kommunikation, die Computern das Sprechen ermöglichen und das Internet formen. | German | 4618 |
 | Schreiben Üben | Frühe Schriften entwickelten sich von Höhlenkunst zu Digitalisierung. | German | 5092379 |
+| Freiheit Code | Die Entstehung der Freien-Software-Philosophie ist untrennbar mit der Person Richard Stallmans und dem GNU-Projekt verbunden, und betont ethische Grundsätze sowie Benutzerfreiheit durch Kooperation und Transparenz in der digitalen Welt. | German | 3799 |

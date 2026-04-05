@@ -67,3 +67,4 @@ Happy typing!
 | Protokoll Entwicklung | Die unsichtbaren Regeln der Kommunikation, die Computern das Sprechen ermöglichen und das Internet formen. | German | 4618 |
 | Schreiben Üben | Frühe Schriften entwickelten sich von Höhlenkunst zu Digitalisierung. | German | 4618 |
 | Freiheit Code | Stallman & GNU: Freiheit durch Kooperation. | German | 3799 |
+| Denkmalschutz | Die Geschichte des Denkmalschutzes ist eine faszinierende Reise durch menschliches Bewusstsein und kulturelle Wertschätzung. | German | 3478 |

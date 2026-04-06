@@ -68,3 +68,4 @@ Happy typing!
 | Schreiben Üben | Frühe Schriften entwickelten sich von Höhlenkunst zu Digitalisierung. | German | 4618 |
 | Freiheit Code | Stallman & GNU: Freiheit durch Kooperation. | German | 3799 |
 | Denkmalschutz | Die Geschichte des Denkmalschutzes ist eine faszinierende Reise durch menschliches Bewusstsein und kulturelle Wertschätzung. | German | 3478 |
+| Chip Geschichte | Die Entwicklung des Mikroprozessors von den Anfängen bis zur modernen Ära. | German | 5067 |

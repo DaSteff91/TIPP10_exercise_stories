@@ -69,3 +69,4 @@ Happy typing!
 | Freiheit Code | Stallman & GNU: Freiheit durch Kooperation. | German | 3799 |
 | Denkmalschutz | Die Geschichte des Denkmalschutzes ist eine faszinierende Reise durch menschliches Bewusstsein und kulturelle Wertschätzung. | German | 3478 |
 | Chip Geschichte | Die Entwicklung des Mikroprozessors von den Anfängen bis zur modernen Ära. | German | 5067 |
+| Hardware History | The story of computer hardware, from early calculators to modern processors. | English | 4978 |

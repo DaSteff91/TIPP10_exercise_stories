@@ -71,3 +71,4 @@ Happy typing!
 | Chip Geschichte | Die Entwicklung des Mikroprozessors von den Anfängen bis zur modernen Ära. | German | 5067 |
 | Hardware History | The story of computer hardware, from early calculators to modern processors. | English | 4978 |
 | Freie Software | Die Philosophie der Freien Software, oft auch als Open-Source-Philosophie bezeichnet, basiert auf grundlegenden Freiheiten, die Nutzern den Umgang mit Computerprogrammen definieren. | German | 2616 |
+| Accounts Witnessed | The same language as defined: en | English | 2674 |

@@ -70,6 +70,6 @@ Happy typing!
 | Denkmalschutz | Die Geschichte des Denkmalschutzes ist eine faszinierende Reise durch menschliches Bewusstsein und kulturelle Wertschätzung. | German | 3478 |
 | Chip Geschichte | Die Entwicklung des Mikroprozessors von den Anfängen bis zur modernen Ära. | German | 5067 |
 | Hardware History | The story of computer hardware, from early calculators to modern processors. | English | 4978 |
-| Freie Software | Die Philosophie der Freien Software, oft auch als Open-Source-Philosophie bezeichnet, basiert auf grundlegenden Freiheiten, die Nutzern den Umgang mit Computerprogrammen definieren. | German | 2616 |
+| Freie Software | Free software grants users four essential freedoms. | German | 2616 |
 | Accounts Witnessed | Personal accounts reveal history’s human reality. | English | 2674 |
 | Erfindungsideen | Die faszinierende Reise der Erfindungen durch die menschliche Kreativität und den Drang, das Leben zu verbessern. | German | 3513 |

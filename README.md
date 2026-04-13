@@ -74,3 +74,4 @@ Happy typing!
 | Accounts Witnessed | Personal accounts reveal history’s human reality. | English | 2674 |
 | Erfindungsideen | Die faszinierende Reise der Erfindungen durch die menschliche Kreativität und den Drang, das Leben zu verbessern. | German | 3513 |
 | Tech Evolution | From simple machines to AI, corporate tech constantly evolves for efficiency and progress. | English | 5030 |
+| Interface Geschichte | Die Geschichte der Benutzeroberflächen spiegelt die technologische Entwicklung wider und macht Technologie menschlicher und leistungsfähiger. | German | 4936 |

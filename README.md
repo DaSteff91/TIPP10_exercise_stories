@@ -75,3 +75,4 @@ Happy typing!
 | Erfindungsideen | Die faszinierende Reise der Erfindungen durch die menschliche Kreativität und den Drang, das Leben zu verbessern. | German | 3513 |
 | Tech Evolution | From simple machines to AI, corporate tech constantly evolves for efficiency and progress. | English | 5030 |
 | Interface Geschichte | Die Geschichte der Benutzeroberflächen spiegelt die technologische Entwicklung wider und macht Technologie menschlicher und leistungsfähiger. | German | 4936 |
+| Gedächtnisinnovationen | The story of memory innovations is characterized by a constant pursuit of better methods for storing and retrieving information. | German | 2613 |

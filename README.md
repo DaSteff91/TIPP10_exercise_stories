@@ -76,3 +76,4 @@ Happy typing!
 | Tech Evolution | From simple machines to AI, corporate tech constantly evolves for efficiency and progress. | English | 5030 |
 | Interface Geschichte | Die Geschichte der Benutzeroberflächen spiegelt die technologische Entwicklung wider und macht Technologie menschlicher und leistungsfähiger. | German | 4936 |
 | Gedächtnisinnovationen | The story of memory innovations is characterized by a constant pursuit of better methods for storing and retrieving information. | German | 2613 |
+| Datenpioniere | The full story text with natural line breaks | German | 5007 |

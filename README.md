@@ -78,3 +78,4 @@ Happy typing!
 | Gedächtnisinnovationen | The story of memory innovations is characterized by a constant pursuit of better methods for storing and retrieving information. | German | 2613 |
 | Datenpioniere | The full story text with natural line breaks | German | 5007 |
 | Typing Evolution | The story of keyboard design, its origins, and the enduring QWERTY layout. | English | 4976 |
+| Heritage Preserved | A factual, historically accurate story about preservation efforts, suitable for typing training. | English | 5029 |

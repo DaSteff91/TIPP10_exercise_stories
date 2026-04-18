@@ -76,6 +76,6 @@ Happy typing!
 | Tech Evolution | From simple machines to AI, corporate tech constantly evolves for efficiency and progress. | English | 5030 |
 | Interface Geschichte | Die Geschichte der Benutzeroberflächen spiegelt die technologische Entwicklung wider und macht Technologie menschlicher und leistungsfähiger. | German | 4936 |
 | Gedächtnisinnovationen | The story of memory innovations is characterized by a constant pursuit of better methods for storing and retrieving information. | German | 2613 |
-| Datenpioniere | The full story text with natural line breaks | German | 5007 |
+| Datenpioniere | Von Mechanik zu KI: rasanter Wandel prägt Leben und Arbeit. | German | 5007 |
 | Typing Evolution | The story of keyboard design, its origins, and the enduring QWERTY layout. | English | 4976 |
 | Heritage Preserved | A factual, historically accurate story about preservation efforts, suitable for typing training. | English | 5029 |

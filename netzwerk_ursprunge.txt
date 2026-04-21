@@ -1,0 +1,23 @@
+Die Anfänge sozialer Medien sind eng mit der Entwicklung des Internets selbst verknüpft.
+Frühe Formen von Online-Kommunikation, wie Bulletin Board Systems (BBS) und Usenet-Gruppen, ermöglichten bereits in den 1970er und 1980er Jahren den Austausch von Informationen und Meinungen.
+Diese Plattformen basierten auf textbasierten Schnittstellen und erforderten oft noch technische Kenntnisse für die Teilnahme.
+Die erste kommerzielle Online-Dienstleistung, die eine breitere Öffentlichkeit ansprach, war CompuServe, gestartet 1969, das E-Mail und Diskussionsforen bot.
+AOL (America Online) und Prodigy folgten und machten das Internet für Millionen von Haushalten zugänglich, wenn auch in einer stark regulierten und proprietären Umgebung.
+Die wahre Revolution begann jedoch mit dem Aufkommen des World Wide Webs.
+Die Einführung des HTML-Standards und der ersten Webbrowser wie Mosaic ebneten den Weg für grafische Benutzeroberflächen und multimediale Inhalte.
+Erste Websites, die als Vorläufer sozialer Netzwerke gelten können, waren "Classmates.com" (1995), das sich auf die Verbindung von ehemaligen Schulkameraden konzentrierte, und "Six Degrees" (1997), das erstmals Freundschaftsverbindungen explizit modellierte und Nutzerprofile führte.
+Diese frühen Versuche waren technisch noch limitiert, legten aber den Grundstein für zukünftige Entwicklungen.
+Die späten 1990er und frühen 2000er Jahre sahen eine explosionsartige Zunahme von Websites, die auf Benutzergenerierten Inhalten basierten.
+"Blogger" (1999) revolutionierte das persönliche Webpublishing und ermöglichte es jedem, eigene Blogs zu erstellen und zu veröffentlichen.
+"LiveJournal" (1999) führte das Konzept eines öffentlichen Online-Tagebuchs ein, das von Freunden kommentiert werden konnte.
+Die Plattform "Friendster" (2002) erlebte einen rasanten Aufstieg, indem sie die Vernetzung von Personen basierend auf realen Beziehungen in den Vordergrund stellte.
+Der Erfolg von "Friendster" inspirierte zahlreiche Nachahmer und zeigte das immense Potenzial sozialer Netzwerke.
+"MySpace" (2003) wurde schnell zum dominanten sozialen Netzwerk, insbesondere bei jüngeren Nutzern, und bot umfangreiche Anpassungsmöglichkeiten für Profilseiten und die Integration von Musik.
+Die Entwicklung von "LinkedIn" (2003) fokussierte sich auf berufliche Netzwerke und professionalisierte das Konzept des Online-Profils für Karrieremöglichkeiten.
+Der eigentliche Wendepunkt kam jedoch mit der Gründung von "Facebook" im Jahr 2004, ursprünglich als exklusives Netzwerk für Harvard-Studenten gedacht.
+Die Open-Platform-Strategie von "Facebook", die Einführung von Newsfeeds zur aggregierten Darstellung von Aktivitäten und die kontinuierliche Weiterentwicklung von Funktionen trieben das Wachstum massiv voran.
+"Twitter" (2006) prägte das Konzept des Mikrobloggings und ermöglichte kurze, echtzeitnahe Informationsaustausche, die sich viral verbreiten konnten.
+Diese Plattformen veränderten grundlegend die Art und Weise, wie Menschen kommunizieren, Informationen konsumieren und Gemeinschaften bilden.
+Die technologischen Fortschritte, die zunehmende Verbreitung von Breitband-Internet und die Verbreitung von Smartphones beschleunigten die Evolution sozialer Medien exponentiell.
+Plattformen wie "Instagram" (2010) und "Snapchat" (2011) fokussierten sich auf visuelle Inhalte und mobile Nutzung, während "TikTok" (2016) die Kurzvideo-Ära definierte.
+Die heutige Landschaft sozialer Medien ist geprägt von Vielfalt, globaler Vernetzung und der ständigen Suche nach neuen Formen der Interaktion und des Informationsaustauschs.

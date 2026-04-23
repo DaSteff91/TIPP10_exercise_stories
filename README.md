@@ -82,3 +82,4 @@ Happy typing!
 | TCP IP | Packet-switching TCP/IP enabled the robust, unified global internet since 1983. | English | 4990 |
 | Netzwerk Ursprünge | Die Entstehung sozialer Medien im historischen Kontext und ihre technologischen Meilensteine. | German | 2696 |
 | Computer History | The fascinating evolution of computing devices from ancient tools to modern marvels and future possibilities. | English | 4925 |
+| Spielewelten Entstehen | The history of video games from early experiments to modern interactive entertainment. | German | 2678 |

@@ -83,3 +83,4 @@ Happy typing!
 | Netzwerk Ursprünge | Die Entstehung sozialer Medien im historischen Kontext und ihre technologischen Meilensteine. | German | 2696 |
 | Computer History | The fascinating evolution of computing devices from ancient tools to modern marvels and future possibilities. | English | 4925 |
 | Spielewelten Entstehen | The history of video games from early experiments to modern interactive entertainment. | German | 2678 |
+| Denkmalpflege Architektonik | Die Restaurierung historischer Bauwerke stellt eine komplexe wissenschaftliche Disziplin dar, die weit über die bloße Instandsetzung hinausgeht. | German | 2605 |

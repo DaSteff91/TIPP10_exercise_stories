@@ -84,3 +84,4 @@ Happy typing!
 | Computer History | The fascinating evolution of computing devices from ancient tools to modern marvels and future possibilities. | English | 4925 |
 | Spielewelten Entstehen | Die Geschichte der Entwicklung von Videospielen.  | German | 2678 |
 | Denkmalpflege Architektonik | Die Restaurierung historischer Bauwerke ist eine komplexe Wissenschaft, die über bloße Instandsetzung hinausgeht. | German | 2605 |
+| Algorithmen Geschichte | Die Entdeckung von Algorithmen reicht tief in die Geschichte der Mathematik und Informatik zurück. | German | 2607 |

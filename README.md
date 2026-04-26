@@ -85,3 +85,4 @@ Happy typing!
 | Spielewelten Entstehen | Die Geschichte der Entwicklung von Videospielen.  | German | 2678 |
 | Denkmalpflege Architektonik | Die Restaurierung historischer Bauwerke ist eine komplexe Wissenschaft, die über bloße Instandsetzung hinausgeht. | German | 2605 |
 | Algorithmen Geschichte | Die Entdeckung von Algorithmen reicht tief in die Geschichte der Mathematik und Informatik zurück. | German | 2607 |
+| Web Geschichte | Die Entstehung und Entwicklung des World Wide Webs, von den Anfängen bis heute. | German | 3419 |

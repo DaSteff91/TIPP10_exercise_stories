@@ -176,3 +176,4 @@ Happy typing!
 | Learning Journey | A journey through the history of educational content and its evolution | English | en |
 | Web Entwicklung | A historical overview of web development from its origins to modern technologies and trends. | German | 3442 |
 | Gaming Origins | The evolution of interactive digital entertainment from its early experiments to modern immersive experiences. | English | 3589 |
+| Umlaute Deutsch | Die deutschen Umlaute sind ein faszinierendes Element der deutschen Sprache, das sowohl für Lernende als auch für Muttersprachler von Bedeutung ist. | German | 3453 |

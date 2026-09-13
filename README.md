@@ -178,3 +178,4 @@ Happy typing!
 | Gaming Origins | The evolution of interactive digital entertainment from its early experiments to modern immersive experiences. | English | 3589 |
 | Umlaute Deutsch | Die deutschen Umlaute sind ein faszinierendes Element der deutschen Sprache, das sowohl für Lernende als auch für Muttersprachler von Bedeutung ist. | German | 3453 |
 | Network Genesis | The story of networking pioneers and their foundational contributions to modern communication technologies. | English | 3431 |
+| Autodidakten Codes | Die Welt der Programmierung ist voller Geschichten von Menschen, die sich ihren Weg durch die Bits und Bytes selbst beigebracht haben. | German | 5004 |

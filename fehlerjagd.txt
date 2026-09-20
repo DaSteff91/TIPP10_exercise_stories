@@ -1,0 +1,72 @@
+Früher waren Computer riesige Maschinen.
+Sie füllten ganze Räume.
+Wenn etwas nicht funktionierte, war es schwierig.
+Das nannte man damals "debugging".
+Es war wie Detektivarbeit.
+Man musste den Fehler finden.
+Oft saßen die Programmierer tagelang.
+Sie suchten nach einem falschen Zeichen.
+Ein kleiner Tippfehler konnte alles stoppen.
+Grace Hopper war eine Pionierin.
+Sie arbeitete mit frühen Computern.
+Einer ihrer ersten "Bugs" war echt.
+Es war eine Motte in einem Relais.
+Sie steckte das kleine Insekt fest.
+Sie fand es und klebte es heraus.
+Dieses Ereignis ist berühmt.
+Es gab dem Wort "bug" eine Bedeutung.
+Die Motte wurde archiviert.
+Sie ist heute ein Symbol.
+In den Anfängen war alles manuell.
+Die Programme waren klein.
+Aber die Hardware war komplex.
+Es gab keine Bildschirme wie heute.
+Man sah oft nur Lichter blinken.
+Oder man erhielt Lochkarten.
+Jede Lochkarte war ein Befehl.
+Fehler bedeuteten neue Karten.
+Das war sehr mühsam.
+Die Logik musste perfekt sein.
+Ein kleiner Fehler und alles war verloren.
+Die Entwickler sprachen viel.
+Sie diskutierten über jeden Schritt.
+Manchmal half ein guter Freund.
+Er sah den Fehler vielleicht klarer.
+Mit der Zeit wurden Computer kleiner.
+Sie wurden schneller und leistungsfähiger.
+Die Software wuchs stark an.
+Das Debugging wurde komplexer.
+Es gab neue Werkzeuge.
+Debugger-Programme entstanden.
+Sie erlaubten es, den Code zu untersuchen.
+Man konnte den Programmablauf verfolgen.
+Man sah, welche Werte Variablen hatten.
+Das war ein großer Fortschritt.
+Aber die Komplexität stieg weiter.
+Moderne Programme haben Millionen Zeilen Code.
+Das Finden eines Fehlers kann dauern.
+Es gibt spezialisierte Debugger.
+Sie helfen, Speicherfehler zu finden.
+Sie finden Laufzeitfehler.
+Sie finden logische Fehler.
+Manchmal sind die Fehler versteckt.
+Sie treten nur unter bestimmten Bedingungen auf.
+Das macht die Jagd spannend.
+Ein guter Debugger ist geduldig.
+Er ist systematisch und analytisch.
+Er stellt viele Fragen.
+Er testet Hypothesen.
+Er versucht, den Fehler zu reproduzieren.
+Wenn das gelingt, ist der halbe Weg geschafft.
+Dann kann er gezielt suchen.
+Die Geschichte des Debuggings ist lang.
+Sie spiegelt die Entwicklung der Informatik wider.
+Von Motten in Maschinen zu komplexen Algorithmen.
+Die Suche nach dem Fehler bleibt zentral.
+Sie ist ein wichtiger Teil des Programmierens.
+Ohne sie gäbe es keine funktionierende Software.
+Jeder Entwickler kennt die Herausforderung.
+Jeder hat schon Stunden damit verbracht.
+Es ist ein Teil der Kunst.
+Die Kunst, Probleme zu lösen.
+Die Kunst, die digitale Welt zu gestalten.

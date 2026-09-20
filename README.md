@@ -181,3 +181,4 @@ Happy typing!
 | Autodidakten Codes | Die Welt der Programmierung ist voller Geschichten von Menschen, die sich ihren Weg durch die Bits und Bytes selbst beigebracht haben. | German | 5004 |
 | Tech Monopolies | The history of antitrust laws and their application to the technology sector, focusing on key cases and evolving challenges. | English | 2511 |
 | Große Erfinder | Die Geschichte der Menschheit ist eng mit der Geschichte der Erfindungen verbunden. Von den frühesten Werkzeugen bis zu den komplexesten Maschinen haben Erfinder die Welt um uns herum geformt. | German | 3497 |
+| Fehlerjagd | Die Geschichte des Debuggings und die Entwicklung von der Motte zum modernen Werkzeug. | German | 4953 |

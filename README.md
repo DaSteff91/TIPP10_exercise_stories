@@ -182,3 +182,4 @@ Happy typing!
 | Tech Monopolies | The history of antitrust laws and their application to the technology sector, focusing on key cases and evolving challenges. | English | 2511 |
 | Große Erfinder | Die Geschichte der Menschheit ist eng mit der Geschichte der Erfindungen verbunden. Von den frühesten Werkzeugen bis zu den komplexesten Maschinen haben Erfinder die Welt um uns herum geformt. | German | 3497 |
 | Fehlerjagd | Die Geschichte des Debuggings und die Entwicklung von der Motte zum modernen Werkzeug. | German | 4953 |
+| Math Machines | The history of computing, from ancient tools to modern AI, shaping progress and discovery. | English | 3418 |

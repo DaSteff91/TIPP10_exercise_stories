@@ -1,0 +1,33 @@
+Die Geschichte der Technologie ist untrennbar mit den Beiträgen von Frauen verbunden, obwohl ihre Rollen oft übersehen wurden.
+Schon in den Anfängen der Computerentwicklung waren Frauen maßgeblich beteiligt.
+Grace Hopper, eine brillante Mathematikerin und Marineoffizierin, war eine der ersten Programmiererinnen des Harvard Mark I Computers.
+Sie entwickelte den ersten Compiler, A-0 System, der es ermöglichte, Code in natürlicherer Sprache zu schreiben.
+Dadurch wurde das Programmieren für eine breitere Masse zugänglich gemacht und der Grundstein für moderne Programmiersprachen gelegt.
+Hoppper prägte auch den Begriff "Bug" und "Debugging", als sie tatsächlich eine Motte aus einem Computer zog, die einen Fehler verursacht hatte.
+Ada Lovelace, eine englische Mathematikerin aus dem 19. Jahrhundert, gilt als die erste Computerprogrammiererin der Welt.
+Sie schrieb Algorithmen für die "Analytical Engine" von Charles Babbage, einer mechanischen Rechenmaschine, die als Vorläufer des modernen Computers angesehen werden kann.
+Ihre visionären Ideen über die Möglichkeiten von Rechenmaschinen gingen weit über reine numerische Berechnungen hinaus.
+Hedy Lamarr, eine Hollywood-Schauspielerin und Erfinderin, entwickelte während des Zweiten Weltkriegs ein "Frequency-Hopping"-System.
+Diese Technologie sollte Torpedoes steuern und war ein frühes Beispiel für Spread-Spectrum-Technik.
+Die von ihr und George Antheil entwickelte Erfindung bildete später die Grundlage für viele moderne drahtlose Technologien wie WLAN und Bluetooth.
+Im Zweiten Weltkrieg spielten Frauen eine entscheidende Rolle als "Computer" im wahrsten Sinne des Wortes.
+Sie führten komplexe Berechnungen manuell durch, die für militärische Zwecke wie ballistische Tabellen und die Entwicklung der Atombombe notwendig waren.
+Diese Frauen, oft "ENIAC-Programmiererinnen" genannt, leisteten unschätzbare Dienste, doch ihre Namen gerieten oft in Vergessenheit.
+Katherine Johnson, Dorothy Vaughan und Mary Jackson waren drei afroamerikanische Mathematikerinnen, die bei der NASA arbeiteten.
+Ihre präzisen Berechnungen waren entscheidend für den Erfolg von bemannten Raumfahrtmissionen, einschließlich der John-Glenn-Mission.
+Dorothy Vaughan wurde zur Abteilungsleiterin befördert und war Expertin für FORTRAN, eine frühe Programmiersprache.
+Mary Jackson wurde die erste afroamerikanische Ingenieurin der NASA.
+Die "Hidden Figures" der NASA zeigten außergewöhnliche intellektuelle Fähigkeiten und Durchhaltevermögen in einer von Männern dominierten und rassistisch getrennten Gesellschaft.
+Margaret Hamilton leitete die Softwareentwicklung für das Apollo-Raumfahrtprogramm der NASA.
+Ihr Team entwickelte das "On-Board Space Guidance Computer"-System, das die Mondlandung ermöglichte.
+Die von ihr entwickelten Softwareprinzipien sind auch heute noch relevant.
+Sie prägte den Begriff "Software Engineering" und hob die Bedeutung von Zuverlässigkeit und Robustheit hervor.
+Grace Hopper, die wir bereits erwähnt haben, kehrte nach ihrer aktiven Dienstzeit zur Marine zurück und setzte sich bis ins hohe Alter für die Informatik ein.
+Ihre Arbeit hat die Art und Weise, wie wir Computer und Software verstehen und nutzen, nachhaltig verändert.
+Diese Frauen und viele andere haben durch ihre Intelligenz, ihren Einfallsreichtum und ihre harte Arbeit den Weg für zukünftige Generationen von Frauen in der Technologie geebnet.
+Ihre Geschichten sind eine wichtige Erinnerung daran, dass technologischer Fortschritt nur durch die Beteiligung aller Geschlechter erreicht werden kann.
+Die Anerkennung ihrer Errungenschaften ist entscheidend, um eine inklusivere und gerechtere Zukunft in der Tech-Branche zu gestalten.
+Es ist wichtig, diese Pionierinnen zu ehren und ihre Beiträge in den historischen Kontext einzuordnen.
+Sie haben bewiesen, dass Leidenschaft und Expertise keine Geschlechtergrenzen kennen.
+Ihre Vermächtnisse inspirieren weiterhin Frauen, Karrieren in MINT-Fächern anzustreben.
+Die fortlaufende Förderung von Vielfalt und Chancengleichheit in der Technologie ist ein direktes Erbe dieser bemerkenswerten Frauen.

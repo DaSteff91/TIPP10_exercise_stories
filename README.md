@@ -183,3 +183,4 @@ Happy typing!
 | Große Erfinder | Die Geschichte der Menschheit ist eng mit der Geschichte der Erfindungen verbunden. Von den frühesten Werkzeugen bis zu den komplexesten Maschinen haben Erfinder die Welt um uns herum geformt. | German | 3497 |
 | Fehlerjagd | Die Geschichte des Debuggings und die Entwicklung von der Motte zum modernen Werkzeug. | German | 4953 |
 | Math Machines | The history of computing, from ancient tools to modern AI, shaping progress and discovery. | English | 3418 |
+| Frauen Pioniere | Die Geschichte von Frauen, die die Technologie revolutioniert haben und oft übersehen wurden. | German | 3536 |

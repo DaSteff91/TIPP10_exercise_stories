@@ -184,3 +184,4 @@ Happy typing!
 | Fehlerjagd | Die Geschichte des Debuggings und die Entwicklung von der Motte zum modernen Werkzeug. | German | 4953 |
 | Math Machines | The history of computing, from ancient tools to modern AI, shaping progress and discovery. | English | 3418 |
 | Frauen Pioniere | Die Geschichte von Frauen, die die Technologie revolutioniert haben und oft übersehen wurden. | German | 3536 |
+| Schreibmaschine Evolution | Die Geschichte der Schreibmaschinentechnologie von ihren mechanischen Anfängen bis zu frühen elektrischen Modellen und deren Einfluss auf die Büroarbeit. | German | 2648 |

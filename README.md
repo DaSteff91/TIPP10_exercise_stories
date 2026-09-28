@@ -186,3 +186,4 @@ Happy typing!
 | Frauen Pioniere | Die Geschichte von Frauen, die die Technologie revolutioniert haben und oft übersehen wurden. | German | 3536 |
 | Schreibmaschine Evolution | Die Geschichte der Schreibmaschinentechnologie von ihren mechanischen Anfängen bis zu frühen elektrischen Modellen und deren Einfluss auf die Büroarbeit. | German | 2648 |
 | Forschungslabore | Die Geschichte und Entwicklung universitären Forschens, von den Anfängen bis zur modernen Hightech-Umgebung. | German | 3516 |
+| Sprachenentwicklung Programmierung | Die Geschichte der Programmiersprachen ist eine faszinierende Reise durch die Evolution des maschinennahen Denkens hin zu hochabstrakten Modellierungen. | German | 2597 |

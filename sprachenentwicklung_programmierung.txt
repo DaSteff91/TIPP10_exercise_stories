@@ -1,0 +1,27 @@
+Die Geschichte der Programmiersprachen ist eine faszinierende Reise durch die Evolution des maschinennahen Denkens hin zu hochabstrakten Modellierungen.
+Ihren Ursprung findet sie in den frühen mechanischen Rechenmaschinen und den darauf basierenden Notationssystemen.
+Charles Babbages Analytical Engine, konzipiert im 19. Jahrhundert, sah bereits die Notwendigkeit einer sequenziellen Befehlsstruktur, die einer Programmiersprache ähnelte.
+Ada Lovelace gilt als die erste Programmiererin, da sie Algorithmen für diese hypothetische Maschine erstellte.
+Die eigentliche Geburtsstunde der Programmiersprachen im modernen Sinne schlug jedoch im 20. Jahrhundert mit der Entwicklung elektronischer Computer.
+Frühe Computer wurden direkt in Maschinensprache, also binären Codes, programmiert.
+Dies war extrem mühsam und fehleranfällig, da jeder Befehl exakt der Hardwarearchitektur entsprungen sein musste.
+Um diesen Prozess zu vereinfachen, entstanden Assemblersprachen, die mnemonische Notationen für die Maschinencodes verwendeten.
+Diese Assembler übersetzten die menschenlesbaren Befehle in Maschinensprache.
+Die Entwicklung von FORTRAN (Formula Translation) in den 1950er Jahren markierte einen Meilenstein, da es die erste weit verbreitete höhere Programmiersprache war.
+FORTRAN ermöglichte es Wissenschaftlern und Ingenieuren, mathematische und wissenschaftliche Berechnungen mit einer Syntax zu formulieren, die näher an natürlicher Sprache und mathematischer Notation lag.
+Kurz darauf folgte LISP (List Processing), das eine dominierende Rolle in der künstlichen Intelligenzforschung einnahm und konzeptionelle Neuerungen wie die funktionale Programmierung einführte.
+COBOL (Common Business-Oriented Language) wurde ebenfalls in den späten 1950er Jahren entwickelt und zielte auf kommerzielle Datenverarbeitung ab, weshalb seine Syntax auf englische Geschäftsprache ausgerichtet war.
+Die 1960er Jahre brachten weitere bedeutende Sprachen wie ALGOL (Algorithmic Language), die als Vorläufer für viele nachfolgende imperative Sprachen gilt und die Blockstruktur einführte.
+BASIC (Beginner's All-purpose Symbolic Instruction Code) wurde entwickelt, um Programmieren für Studenten zugänglicher zu machen.
+In den 1970er Jahren revolutionierte C die Systemprogrammierung.
+Entwickelt am Bell-System-Labor, bot C eine effiziente und flexible Schnittstelle zur Hardware, was es zur bevorzugten Sprache für die Entwicklung von Betriebssystemen wie Unix machte.
+Die objektorientierte Programmierung (OOP) gewann mit Sprachen wie Smalltalk und später C++ an Bedeutung.
+C++ erweiterte die Funktionalität von C um Klassen, Objekte und Vererbung, was die Entwicklung komplexer Softwareprojekte erheblich vereinfachte.
+Die späten 1980er und 1990er Jahre sahen das Aufkommen von Java, das mit dem Motto "Write Once, Run Anywhere" eine plattformunabhängige Ausführung ermöglichte.
+Java nutzte die Java Virtual Machine (JVM), um Bytecode zu interpretieren oder zu kompilieren, was die Portabilität über verschiedene Betriebssysteme hinweg sicherstellte.
+Python wurde Ende der 1980er Jahre entworfen und zeichnet sich durch seine Lesbarkeit und einfache Syntax aus, was es zu einer beliebten Wahl für Webentwicklung, Datenwissenschaft und Automatisierung macht.
+Es fördert einen klaren und prägnanten Programmierstil.
+JavaScript entwickelte sich zu einer unverzichtbaren Sprache für die Webentwicklung, die dynamische und interaktive Inhalte auf Websites ermöglicht.
+Heutzutage existiert eine immense Vielfalt an Programmiersprachen, jede mit ihren spezifischen Anwendungsbereichen und Paradigmen.
+Von funktionalen Sprachen wie Haskell bis hin zu spezialisierten Sprachen wie R für statistische Berechnungen oder Swift für die iOS-Entwicklung spiegelt diese Vielfalt die fortschreitende Komplexität und Differenzierung der Softwareentwicklung wider.
+Die kontinuierliche Forschung und Entwicklung in diesem Bereich treibt die Entstehung neuer Sprachen und die Weiterentwicklung bestehender voran, um den sich ständig ändernden Anforderungen der Technologie gerecht zu werden.
